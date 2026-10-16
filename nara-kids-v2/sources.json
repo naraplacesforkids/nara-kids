@@ -1,0 +1,30 @@
+{
+  "ical_feeds": [],
+  "municipal_calendars": [
+    {
+      "name": "Kashihara City",
+      "city": "Kashihara",
+      "url": "https://www.city.kashihara.nara.jp/calendar.html"
+    },
+    {
+      "name": "Tenri City",
+      "city": "Tenri",
+      "url": "https://www.city.tenri.nara.jp/calendar.html"
+    },
+    {
+      "name": "Sakurai City",
+      "city": "Sakurai",
+      "url": "https://www.city.sakurai.lg.jp/calendar.html"
+    }
+  ],
+  "reference_calendars": [
+    {
+      "name": "Nara City",
+      "url": "https://www.city.nara.lg.jp/calendar/"
+    },
+    {
+      "name": "Nara Prefecture",
+      "url": "https://www.pref.nara.lg.jp/cgi-bin/event_cal_multi/calendar.cgi"
+    }
+  ]
+}
