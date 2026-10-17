@@ -50,3 +50,9 @@ Check `events.json` (including `errors`, `sources`, and `updatedAt`) before rely
 on the feed. If all sources fail, the task exits without overwriting the old feed.
 Do not describe discovered listings as confirmed events; the event details
 should always be checked at their official link.
+
+
+## Version 2.2: language coverage
+The 10 attraction cards now contain manually drafted short guides in Japanese, Haitian Creole, French, Nepali and Hindi; English remains the original source. The full original 2023 articles remain in English in the detail drawer, explicitly labeled as such. This is NOT a complete translation of those articles. Attraction names retain recognizable venue names. Events support optional `translations: {language: {title, description}}` fields, but the current scraper does not generate them; new events fall back to the original language. Translation should be reviewed by native speakers before public release.
+
+Deploy: Replace the `nara-kids-v2/activities.json`, `nara-kids-v2/app.js` and `nara-kids-v2/README.md` files in your repository with the same files in this archive, then commit and push. Keep Netlify publish directory set to `nara-kids-v2`.

@@ -12,7 +12,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_6990.jpg?w=1024"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "ひみっこぱーく",
+        "summary": "桜井駅近くの屋内遊び場。赤ちゃん向けエリア、ごっこ遊び、すべり台やボールプールなどがあります。利用条件や料金は事前に公式サイトで確認してください。"
+      },
+      "ht": {
+        "name": "Pak jwèt Himikko",
+        "summary": "Yon espas jwèt andedan toupre estasyon Sakurai. Gen yon zòn pou tibebe, jwèt imajinasyon, glisad ak pisin boul. Verifye kondisyon antre ak pri yo anvan ou ale."
+      },
+      "fr": {
+        "name": "Aire de jeux Himikko",
+        "summary": "Une aire de jeux couverte près de la gare de Sakurai, avec espace bébés, jeux d'imitation, toboggans et piscine à balles. Vérifiez les conditions d'accès et les tarifs avant de partir."
+      },
+      "ne": {
+        "name": "हिम्मिक्को खेल पार्क",
+        "summary": "साकुराइ स्टेशन नजिकैको भित्री खेल्ने ठाउँ। यहाँ साना शिशुका लागि क्षेत्र, कल्पनात्मक खेल, चिप्लेटी र बल पिट छन्। जानुअघि प्रवेश नियम र शुल्क जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "हिम्मिक्को खेल पार्क",
+        "summary": "साकुराई स्टेशन के पास इनडोर खेल क्षेत्र। यहाँ शिशुओं के लिए जगह, कल्पनात्मक खेल, स्लाइड और बॉल पिट हैं। जाने से पहले प्रवेश नियम और शुल्क जाँचें।"
+      }
+    }
   },
   {
     "id": 2,
@@ -29,7 +51,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_6995-1.jpg?w=640"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "奈良健康ランド",
+        "summary": "天理市にある屋内型の温泉・レジャー施設。プールやお風呂などを家族で楽しめます。利用可能な設備や営業日は公式サイトで確認してください。"
+      },
+      "ht": {
+        "name": "Nara Kenko Land",
+        "summary": "Yon sant amizman andedan nan Tenri ki gen pisin ak beny dlo cho pou fanmi. Tcheke sèvis ki disponib ak jou ouvèti yo sou sit ofisyèl la."
+      },
+      "fr": {
+        "name": "Nara Kenko Land",
+        "summary": "Un complexe de loisirs couvert à Tenri avec piscines et bains thermaux pour les familles. Consultez le site officiel pour connaître les installations et les jours d'ouverture."
+      },
+      "ne": {
+        "name": "नारा केन्को ल्यान्ड",
+        "summary": "तेन्रीमा रहेको भित्री मनोरञ्जन तथा तातोपानी स्नान केन्द्र। परिवारसँग पोखरी र स्नानको आनन्द लिन सकिन्छ। उपलब्ध सुविधा र खुल्ने दिन आधिकारिक वेबसाइटमा जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "नारा केन्को लैंड",
+        "summary": "तेनरी में इनडोर मनोरंजन और गर्म पानी के स्नान वाला परिसर। परिवार के साथ पूल और स्नान का आनंद लिया जा सकता है। उपलब्ध सुविधाएँ और खुलने के दिन आधिकारिक साइट पर जाँचें।"
+      }
+    }
   },
   {
     "id": 3,
@@ -45,7 +89,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_6999.jpg?w=450"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "うだ・アニマルパーク",
+        "summary": "宇陀市の動物ふれあい施設。羊やヤギなどの動物を身近に観察できます。混雑する日もあるため、来園前に公式情報を確認してください。"
+      },
+      "ht": {
+        "name": "Pak bèt Uda",
+        "summary": "Yon pak bèt nan Uda kote timoun yo ka wè mouton ak kabrit toupre. Gen jou ki gen anpil moun, kidonk verifye enfòmasyon ofisyèl anvan vizit la."
+      },
+      "fr": {
+        "name": "Parc animalier d’Uda",
+        "summary": "Un parc animalier à Uda où les enfants peuvent observer des moutons et des chèvres de près. Il peut être fréquenté : vérifiez les informations officielles avant votre visite."
+      },
+      "ne": {
+        "name": "उदा पशु पार्क",
+        "summary": "उदाको पशु पार्कमा बालबालिकाले भेडा र बाख्रालाई नजिकबाट हेर्न सक्छन्। भिड हुन सक्ने भएकाले जानुअघि आधिकारिक सूचना जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "उदा पशु पार्क",
+        "summary": "उदा के पशु पार्क में बच्चे भेड़ और बकरियों को पास से देख सकते हैं। भीड़ हो सकती है, इसलिए जाने से पहले आधिकारिक जानकारी जाँचें।"
+      }
+    }
   },
   {
     "id": 4,
@@ -60,7 +126,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7013.jpg?w=450"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "生駒山上遊園地",
+        "summary": "生駒山の山頂にある遊園地。奈良盆地や大阪平野の景色と遊具が楽しめます。乗り物の対象年齢や営業期間は公式サイトで確認してください。"
+      },
+      "ht": {
+        "name": "Pak amizman Ikoma",
+        "summary": "Yon pak amizman sou tèt mòn Ikoma, ak bèl peyizaj sou Nara ak Osaka ansanm ak atraksyon. Verifye laj admisib ak dat ouvèti yo."
+      },
+      "fr": {
+        "name": "Parc d’attractions d’Ikoma",
+        "summary": "Un parc d'attractions au sommet du mont Ikoma, avec vue sur Nara et Osaka. Vérifiez les restrictions d'âge des manèges et la période d'ouverture."
+      },
+      "ne": {
+        "name": "इकोमा मनोरञ्जन पार्क",
+        "summary": "इकोमा पर्वतको टुप्पोमा रहेको मनोरञ्जन पार्क, जहाँबाट नारा र ओसाकाको दृश्य देखिन्छ। सवारीको उमेर सीमा र खुल्ने मौसम जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "इकोमा मनोरंजन पार्क",
+        "summary": "इकोमा पर्वत की चोटी पर मनोरंजन पार्क, जहाँ से नारा और ओसाका का सुंदर नज़ारा दिखता है। राइड की आयु सीमा और खुलने का मौसम जाँचें।"
+      }
+    }
   },
   {
     "id": 5,
@@ -76,7 +164,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_4702.jpg?w=768"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "奈良金魚ミュージアム",
+        "summary": "奈良市の金魚をテーマにしたミュージアム。水槽とアートが組み合わされた展示を楽しめます。チケットや最新の展示内容は公式情報をご確認ください。"
+      },
+      "ht": {
+        "name": "Mize pwason wouj Nara",
+        "summary": "Yon mize nan vil Nara ki prezante pwason wouj nan akvaryòm ak enstalasyon atistik. Verifye tikè ak ekspozisyon aktyèl yo sou sit ofisyèl la."
+      },
+      "fr": {
+        "name": "Musée des poissons rouges de Nara",
+        "summary": "Un musée à Nara consacré aux poissons rouges, mêlant aquariums et installations artistiques. Consultez les informations officielles pour les billets et expositions en cours."
+      },
+      "ne": {
+        "name": "नारा गोल्डफिश संग्रहालय",
+        "summary": "नारा सहरको सुनौलो माछा विषयक संग्रहालय, जहाँ एक्वेरियम र कलात्मक प्रदर्शनी छन्। टिकट र हालका प्रदर्शनीबारे आधिकारिक जानकारी जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "नारा गोल्डफिश संग्रहालय",
+        "summary": "नारा शहर का गोल्डफिश संग्रहालय, जहाँ एक्वेरियम और कलात्मक प्रदर्शनियाँ हैं। टिकट और मौजूदा प्रदर्शनी की जानकारी आधिकारिक साइट पर जाँचें।"
+      }
+    }
   },
   {
     "id": 6,
@@ -93,7 +203,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7267.jpg?w=450"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "平成榛原子供のもり公園",
+        "summary": "宇陀市の自然豊かな公園。遊具、キャンプ、バーベキューなどの屋外活動を楽しめます。設備の予約条件は事前に確認してください。"
+      },
+      "ht": {
+        "name": "Pak forè timoun Haibara",
+        "summary": "Yon pak vèt nan Uda pou jwèt deyò, kanping ak babekyou. Verifye si ou bezwen rezève ekipman oswa espas yo davans."
+      },
+      "fr": {
+        "name": "Parc forestier des enfants de Haibara",
+        "summary": "Un parc verdoyant à Uda pour les jeux de plein air, le camping et les barbecues. Vérifiez à l'avance les conditions de réservation des installations."
+      },
+      "ne": {
+        "name": "हाइबारा बाल वन पार्क",
+        "summary": "उदाको हरियाली पार्कमा बाहिरी खेल, क्याम्पिङ र बार्बेक्यु गर्न सकिन्छ। सुविधा प्रयोग वा बुकिङका नियम पहिले जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "हाइबारा चिल्ड्रन फ़ॉरेस्ट पार्क",
+        "summary": "उदा के हरे-भरे पार्क में आउटडोर खेल, कैंपिंग और बारबेक्यू का आनंद लिया जा सकता है। सुविधाओं और बुकिंग के नियम पहले जाँचें।"
+      }
+    }
   },
   {
     "id": 7,
@@ -108,7 +240,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7269-1.jpg?w=252"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "信貴山のどか村",
+        "summary": "三郷町周辺の農業公園。季節の果物狩り、バーベキュー、屋外遊びなどを楽しめます。収穫できる果物や料金は季節によって変わります。"
+      },
+      "ht": {
+        "name": "Nodoka Village",
+        "summary": "Yon pak agrikòl nan zòn Sango ak rekòt fwi sezonye, babekyou ak jwèt deyò. Fwi ki disponib yo ak pri yo depann de sezon an."
+      },
+      "fr": {
+        "name": "Village agricole Nodoka",
+        "summary": "Un parc agricole près de Sango proposant cueillette de fruits de saison, barbecues et jeux de plein air. Les fruits disponibles et les tarifs varient selon la saison."
+      },
+      "ne": {
+        "name": "नोदोका भिलेज",
+        "summary": "सान्गो वरपरको कृषि पार्कमा मौसमी फल टिप्ने, बार्बेक्यु र बाहिरी खेल गर्न सकिन्छ। उपलब्ध फल र शुल्क मौसमअनुसार बदलिन्छ।"
+      },
+      "hi": {
+        "name": "नोदोका विलेज",
+        "summary": "सांगो के आसपास के कृषि पार्क में मौसमी फल तोड़ना, बारबेक्यू और आउटडोर खेल मिलते हैं। उपलब्ध फल और शुल्क मौसम के अनुसार बदलते हैं।"
+      }
+    }
   },
   {
     "id": 8,
@@ -126,7 +280,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7274.jpg?w=675"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "第二浄化センターファミリープール",
+        "summary": "広陵町付近にある夏季のファミリープール。複数のプールやウォータースライダーがあります。夏季営業日、身長・年齢制限、料金を事前に確認してください。"
+      },
+      "ht": {
+        "name": "Pisin fanmi Koryo",
+        "summary": "Yon pisin fanmi sezon ete nan zòn Koryo, ak plizyè pisin ak glisad dlo. Verifye dat ouvèti, limit laj oswa wotè, ak pri yo."
+      },
+      "fr": {
+        "name": "Piscine familiale de Koryo",
+        "summary": "Une piscine familiale saisonnière près de Koryo, avec plusieurs bassins et toboggans aquatiques. Vérifiez les dates d'ouverture, les restrictions de taille ou d'âge et les tarifs."
+      },
+      "ne": {
+        "name": "कोर्यो पारिवारिक पौडी पोखरी",
+        "summary": "कोर्यो नजिकको गर्मीयाममा खुल्ने पारिवारिक पौडी पोखरीमा विभिन्न पोखरी र पानीका स्लाइड छन्। खुल्ने मिति, उमेर वा उचाइ सीमा र शुल्क जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "कोर्यो फ़ैमिली पूल",
+        "summary": "कोर्यो के पास गर्मियों में खुलने वाला पारिवारिक स्विमिंग पूल, जिसमें कई पूल और वॉटर स्लाइड हैं। खुलने की तारीखें, आयु या लंबाई की सीमा और शुल्क जाँचें।"
+      }
+    }
   },
   {
     "id": 9,
@@ -143,7 +319,29 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7277-1.jpg?w=450"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "橿原市立こども科学館",
+        "summary": "橿原市の子ども向け科学館。天文、電気などに関する体験型展示があります。雨の日のおでかけにも向いています。開館日・料金は公式サイトで確認してください。"
+      },
+      "ht": {
+        "name": "Mize syans timoun Kashihara",
+        "summary": "Yon mize syans pou timoun nan Kashihara, ak ekspozisyon pratik sou sijè tankou astwonomi ak elektrisite. Bon opsyon lè lapli tonbe. Verifye lè ouvèti ak pri yo."
+      },
+      "fr": {
+        "name": "Musée des sciences pour enfants de Kashihara",
+        "summary": "Un musée scientifique pour enfants à Kashihara, avec des expériences interactives sur l'astronomie et l'électricité. Une bonne idée par temps de pluie. Vérifiez horaires et tarifs."
+      },
+      "ne": {
+        "name": "काशिहारा बाल विज्ञान संग्रहालय",
+        "summary": "काशिहाराको बाल विज्ञान संग्रहालयमा खगोलशास्त्र र बिजुलीजस्ता विषयमा प्रयोगात्मक प्रदर्शनी छन्। वर्षाको दिनका लागि राम्रो विकल्प हो। समय र शुल्क जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "काशिहारा बाल विज्ञान संग्रहालय",
+        "summary": "काशिहारा के बाल विज्ञान संग्रहालय में खगोल विज्ञान और बिजली जैसे विषयों की इंटरैक्टिव प्रदर्शनियाँ हैं। बारिश के दिन के लिए अच्छा विकल्प। समय और शुल्क जाँचें।"
+      }
+    }
   },
   {
     "id": 10,
@@ -160,6 +358,28 @@
       "https://narakids.wordpress.com/wp-content/uploads/2023/04/img_7288.jpg?w=810"
     ],
     "lastReviewed": "2023-04",
-    "verification": "Unverified historical listing"
+    "verification": "Unverified historical listing",
+    "translations": {
+      "ja": {
+        "name": "まほろば健康パーク",
+        "summary": "大和郡山市の公園・スポーツ施設。季節によってプールなどの施設を利用できます。各施設の営業日と利用条件は事前に確認してください。"
+      },
+      "ht": {
+        "name": "Pak Mahoroba Kenko",
+        "summary": "Yon pak ak enstalasyon espòtif nan Yamatokoriyama. Kèk sèvis, tankou pisin, ka disponib selon sezon an. Verifye dat ouvèti ak kondisyon yo."
+      },
+      "fr": {
+        "name": "Parc Mahoroba Kenko",
+        "summary": "Un parc avec installations sportives à Yamatokoriyama. Certains équipements, comme la piscine, sont saisonniers. Vérifiez les dates d'ouverture et les conditions d'accès."
+      },
+      "ne": {
+        "name": "माहोरोबा केन्को पार्क",
+        "summary": "यामातोकोरियामाको पार्क तथा खेलकुद क्षेत्रमा मौसमअनुसार पौडी पोखरीजस्ता सुविधा उपलब्ध हुन सक्छन्। खुल्ने समय र प्रयोगका नियम जाँच्नुहोस्।"
+      },
+      "hi": {
+        "name": "माहोरोबा केन्को पार्क",
+        "summary": "यामातोकोरियामा में पार्क और खेल सुविधाएँ हैं। पूल जैसी कुछ सुविधाएँ मौसम के अनुसार खुलती हैं। समय और प्रवेश नियम जाँचें।"
+      }
+    }
   }
 ]
