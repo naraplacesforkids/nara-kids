@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 import requests
 from icalendar import Calendar
 from municipal_events import extract_calendar
-from venue_events import extract_listing
+from venue_events import extract_listing, extract_event_summary
 ROOT=Path(__file__).resolve().parents[1]
 JST=ZoneInfo('Asia/Tokyo')
 TODAY=datetime.now(JST).date()
@@ -81,6 +81,21 @@ def main():
             response.raise_for_status()
             if len(response.content)>3_000_000:raise ValueError('listing page too large')
             found=extract_listing(response.text,source,TODAY)
+            # Retrieve only direct organizer detail pages, with a strict per-source cap.
+            # Keep an event even if its detail page has no useful description.
+            from urllib.parse import urlparse
+            from time import sleep
+            for event in found[:35]:
+                try:
+                    detail_url=event.get('url','')
+                    if urlparse(detail_url).hostname != urlparse(url).hostname: continue
+                    detail=requests.get(detail_url,timeout=12,headers={'User-Agent':'Mozilla/5.0 (compatible; NaraKidsFamilyEvents/2.4)'})
+                    detail.raise_for_status()
+                    if len(detail.content) > 1_500_000: continue
+                    event['description']=extract_event_summary(detail.text,event['title'])
+                except Exception as exc:
+                    print(f'Description unavailable for {event.get("title", "event")[:70]}: {type(exc).__name__}')
+            print(f'{name}: {sum(bool(e.get("description")) for e in found)} descriptions out of {len(found)} candidates')
             output.extend(found)
             successes.append(name)
             print(f'{name}: {len(found)} candidate events')

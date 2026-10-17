@@ -62,3 +62,30 @@ def extract_listing(html,source,today=None):
                         'free':False,'costKnown':False,'reviewStatus':'unverified',
                         'discoveredFrom':'public_event_listing'})
     return results
+
+
+# Conservative summaries: only text extracted from the organizer's own event page.
+# No AI-generated details and no guessed admission, schedule or age eligibility.
+def extract_event_summary(html, title):
+    soup=BeautifulSoup(html,'html.parser')
+    for node in soup(['script','style','nav','footer','header','noscript']): node.decompose()
+    candidates=[]
+    for attr in ({'property':'og:description'},{'name':'description'},{'name':'twitter:description'}):
+        meta=soup.find('meta',attrs=attr)
+        if meta and meta.get('content'): candidates.append(meta['content'])
+    main=soup.find('main') or soup.find('article') or soup
+    for p in main.select('p, .event-description, .event-detail, .description')[:45]:
+        candidates.append(p.get_text(' ',strip=True))
+    title_compact=re.sub(r'\s+','',title)
+    for txt in candidates:
+        txt=re.sub(r'\s+',' ',txt).strip()
+        if len(txt)<28:continue
+        if len(txt)>1400:continue
+        if re.search(r'プライバシー|Cookie|ログイン|すべてのイベント|サイトマップ|お問い合わせ|無断転載|Copyright|メルマガ',txt,re.I):continue
+        # Avoid generic site-wide metadata that may appear on every page.
+        if len(txt)<100 and title_compact and title_compact not in re.sub(r'\s+','',txt):
+            # Paragraphs may not repeat the title; keep them but require event-like descriptions.
+            if not re.search(r'開催|参加|楽し|体験|登場|作|食|演奏|ショー|展示|ワークショップ|マルシェ|festiv|event|famil',txt,re.I):continue
+        if len(txt)>175:txt=txt[:172].rsplit(' ',1)[0].rstrip('、，,。')+'…'
+        return txt
+    return ''
