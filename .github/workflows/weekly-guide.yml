@@ -1,0 +1,27 @@
+name: Weekly Nara Kids guide
+on:
+  schedule:
+    - cron: '0 23 * * 3' # Thursday 08:00 JST (Wednesday 23:00 UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  roundup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r nara-kids-v2/requirements.txt
+      - run: python nara-kids-v2/scripts/update_events.py
+      - run: python nara-kids-v2/scripts/build_weekly.py
+      - name: Publish guide
+        run: |
+          if ! git diff --quiet -- nara-kids-v2/events.json nara-kids-v2/weekly.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add nara-kids-v2/events.json nara-kids-v2/weekly.json
+            git commit -m 'Publish Thursday family weekend guide'
+            git push
+          fi
