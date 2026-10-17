@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 import requests
 from icalendar import Calendar
 from municipal_events import extract_calendar
+from venue_events import extract_listing
 ROOT=Path(__file__).resolve().parents[1]
 JST=ZoneInfo('Asia/Tokyo')
 TODAY=datetime.now(JST).date()
@@ -72,13 +73,28 @@ def main():
             print(f'{name}: {len(found)} possible family events')
         except Exception as exc:
             failures.append(f'{name}: {type(exc).__name__}: {exc}')
+    # Family-oriented event directories and venue event indexes.
+    for source in config.get('event_listings',[]):
+        name=source['name'];url=source['url']
+        try:
+            response=requests.get(url,timeout=25,headers={'User-Agent':'Mozilla/5.0 (compatible; NaraKidsFamilyEvents/2.3)'})
+            response.raise_for_status()
+            if len(response.content)>3_000_000:raise ValueError('listing page too large')
+            found=extract_listing(response.text,source,TODAY)
+            output.extend(found)
+            successes.append(name)
+            print(f'{name}: {len(found)} candidate events')
+        except Exception as exc:
+            failures.append(f'{name}: {type(exc).__name__}: {exc}')
     # Fail closed: if configured sources all fail, retain old events instead of silently wiping them.
     prior_path=ROOT/'events.json'
-    if (config.get('ical_feeds') or config.get('municipal_calendars')) and not successes:
+    if (config.get('ical_feeds') or config.get('municipal_calendars') or config.get('event_listings')) and not successes:
         print('All sources failed; keeping previous published events.',file=sys.stderr)
         for error in failures:print(error,file=sys.stderr)
         sys.exit(1)
     unique={e['id']:e for e in output}
+    if not unique:
+        print('WARNING: zero events extracted. Source layouts may have changed; check source counts and errors.', file=sys.stderr)
     data={'updatedAt':datetime.now(timezone.utc).isoformat(), 'sources':successes,
           'errors':failures, 'events':sorted(unique.values(),key=lambda e:e['start'])}
     prior_path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf8')

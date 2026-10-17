@@ -26,5 +26,18 @@
       "name": "Nara Prefecture",
       "url": "https://www.pref.nara.lg.jp/cgi-bin/event_cal_multi/calendar.cgi"
     }
+  ],
+  "event_listings": [
+    {
+      "name": "AEON Mall Kashihara Events",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "url": "https://kashihara.aeonmall.jp/event"
+    },
+    {
+      "name": "Nara Prefecture Event Aggregator: Kashihara",
+      "city": "Kashihara",
+      "url": "https://event.nsa.pref.nara.jp/list/?area=149"
+    }
   ]
 }
