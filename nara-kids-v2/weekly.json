@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T20:37:50.879457+00:00",
+  "generatedAt": "2026-10-18T03:41:08.428564+00:00",
   "weekendStart": "2026-10-24",
   "weekendEnd": "2026-10-25",
   "mondayAfter": "2026-10-26",
   "events": [
     {
       "id": "1e8fc23468336cc3",
-      "title": "143 閲覧 特別展「ふしぎなカマキリ」 期間 〜 場所 奈良県橿原市南山町６２４ 橿原市昆虫館 本館2階 標本展示室3 143 閲覧",
+      "title": "特別展「ふしぎなカマキリ」",
       "start": "2026-07-14",
       "end": "2026-10-25",
       "city": "Kashihara",
@@ -16,20 +16,8 @@
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
-      "reviewStatus": "unverified"
-    },
-    {
-      "id": "58335bddadc689fe",
-      "title": "2 2026夏・秋 へぐり俚(さと)びフェスタ 始まります！ 期間 〜",
-      "start": "2026-07-18",
-      "end": "2026-10-31",
-      "city": "Kashihara",
-      "location": "",
-      "description": "〜古都華の聖地で、おいしい・楽しい夏と秋を！〜 道の駅「大和路へぐり」は、今、地域のお店や団体が協力し合って、地元を盛り上げる「未来プロジェクト」を推進中です！そんな活気あふれる道の駅で、この期間だ...",
-      "url": "https://event.nsa.pref.nara.jp/events/01KXHN2EXEP1VXP43F6XXW0XHD",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
       "reviewStatus": "unverified"
     },
     {
@@ -44,6 +32,8 @@
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
       "reviewStatus": "unverified"
     },
     {
@@ -58,20 +48,8 @@
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
-      "reviewStatus": "unverified"
-    },
-    {
-      "id": "1c6007474b30f0bd",
-      "title": "83 閲覧 奈良しみんだより2026年9月号　スーパーミラクルイリュージョン ジョン☆木下大サーカス奈良橿原公演 期間 〜 場所 奈良県橿原市曲川町７丁目２０−１ イオンモール橿原 83 閲覧",
-      "start": "2026-10-11",
-      "end": "2027-01-31",
-      "city": "Kashihara",
-      "location": "",
-      "description": "当サイトは、県をはじめとした公的機関や民間団体等のホームページ及びソーシャルネットワーキングサービス等によりＷｅｂ上で掲載・発信されている、奈良県内のイベント情報を自動的に集約し、奈良県民や県外からの観光客等がアクセスしやすいサイトとして提供することで、奈良県で開催されるイベント情報の効率的な周知を目的に開設しております…",
-      "url": "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
       "reviewStatus": "unverified"
     },
     {
@@ -86,10 +64,28 @@
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified"
+    },
+    {
+      "id": "58335bddadc689fe",
+      "title": "2026夏・秋 へぐり俚(さと)びフェスタ 始まります！",
+      "start": "2026-07-18",
+      "end": "2026-10-31",
+      "city": "Heguri",
+      "location": "",
+      "description": "〜古都華の聖地で、おいしい・楽しい夏と秋を！〜 道の駅「大和路へぐり」は、今、地域のお店や団体が協力し合って、地元を盛り上げる「未来プロジェクト」を推進中です！そんな活気あふれる道の駅で、この期間だ...",
+      "url": "https://event.nsa.pref.nara.jp/events/01KXHN2EXEP1VXP43F6XXW0XHD",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
       "reviewStatus": "unverified"
     }
   ],
-  "sourceUpdatedAt": "2026-10-17T20:37:50.532795+00:00",
+  "sourceUpdatedAt": "2026-10-18T03:41:08.329351+00:00",
   "sourceErrors": [],
   "note": "Monday listings are included for convenience; Monday is not necessarily a public holiday. All details require source confirmation."
 }

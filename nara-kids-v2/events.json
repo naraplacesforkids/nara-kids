@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:37:50.532795+00:00",
+  "updatedAt": "2026-10-18T03:41:08.329351+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -11,7 +11,7 @@
   "events": [
     {
       "id": "1e8fc23468336cc3",
-      "title": "143 閲覧 特別展「ふしぎなカマキリ」 期間 〜 場所 奈良県橿原市南山町６２４ 橿原市昆虫館 本館2階 標本展示室3 143 閲覧",
+      "title": "特別展「ふしぎなカマキリ」",
       "start": "2026-07-14",
       "end": "2026-10-25",
       "city": "Kashihara",
@@ -22,14 +22,16 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "58335bddadc689fe",
-      "title": "2 2026夏・秋 へぐり俚(さと)びフェスタ 始まります！ 期間 〜",
+      "title": "2026夏・秋 へぐり俚(さと)びフェスタ 始まります！",
       "start": "2026-07-18",
       "end": "2026-10-31",
-      "city": "Kashihara",
+      "city": "Heguri",
       "location": "",
       "description": "〜古都華の聖地で、おいしい・楽しい夏と秋を！〜 道の駅「大和路へぐり」は、今、地域のお店や団体が協力し合って、地元を盛り上げる「未来プロジェクト」を推進中です！そんな活気あふれる道の駅で、この期間だ...",
       "url": "https://event.nsa.pref.nara.jp/events/01KXHN2EXEP1VXP43F6XXW0XHD",
@@ -37,7 +39,9 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "309b3f9c56d43ba7",
@@ -52,7 +56,9 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "5bf6da3dc9a3dc09",
@@ -67,11 +73,13 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "2cf2e631c7aca647",
-      "title": "シェフェスタ2026 AUTUMN WORLD FOOD FEST",
+      "title": "最終日 シェフェスタ2026 AUTUMN WORLD FOOD FEST",
       "start": "2026-10-10",
       "end": "2026-10-18",
       "city": "Kashihara",
@@ -82,7 +90,9 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "0393a13c193a806f",
@@ -97,41 +107,16 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
-    },
-    {
-      "id": "1c6007474b30f0bd",
-      "title": "83 閲覧 奈良しみんだより2026年9月号　スーパーミラクルイリュージョン ジョン☆木下大サーカス奈良橿原公演 期間 〜 場所 奈良県橿原市曲川町７丁目２０−１ イオンモール橿原 83 閲覧",
-      "start": "2026-10-11",
-      "end": "2027-01-31",
-      "city": "Kashihara",
-      "location": "",
-      "description": "当サイトは、県をはじめとした公的機関や民間団体等のホームページ及びソーシャルネットワーキングサービス等によりＷｅｂ上で掲載・発信されている、奈良県内のイベント情報を自動的に集約し、奈良県民や県外からの観光客等がアクセスしやすいサイトとして提供することで、奈良県で開催されるイベント情報の効率的な周知を目的に開設しております…",
-      "url": "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
-    },
-    {
-      "id": "4b23ebac072e14d6",
-      "title": "【本日終了】イオンモール橿原限定！ハロウィンお買物券プレゼント！！",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "イオンモール橿原限定！お買物券プレゼント！ 税込5,000円以上のイオンモール橿原専門店当日お買上げレシートで、税込1,000円以上のご購入で使える500円お買物券を1枚プレゼント！ ※レシートは合算は可能です。 ※お1人さま最大3枚まで ◆お買物券配布期間：2026年10月17日(土)〜10月18日(日)",
-      "url": "https://kashihara.aeonmall.jp/event/f9c38dd0-b7e0-4f82-86df-12ea593cc99b",
-      "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": "",
+      "additionalSources": [
+        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
+      ]
     },
     {
       "id": "1f1afe23a5eeaf84",
-      "title": "ピニャータ　クラッシュパーティー",
+      "title": "最終日 ピニャータ クラッシュパーティー",
       "start": "2026-10-17",
       "end": "2026-10-18",
       "city": "Kashihara",
@@ -139,29 +124,19 @@
       "description": "割れた後に、何が起きるかはお楽しみ！ ピニャータとは、メキシコで誕生日やパーティーなどのお祝いで使われるカラフルな紙製のオブジェです。 （5）17:00～17:45の会はハロウィンイルミネーションと一緒に楽しもう！ ■参加条件：参加無料 4歳以上(小学生以下のお子さまは保護者とのご参加）",
       "url": "https://kashihara.aeonmall.jp/event/bf1eb618-7b65-4e18-9498-5edbf2e750d7",
       "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
+      "free": true,
+      "costKnown": true,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
-    },
-    {
-      "id": "1b071073be57fc61",
-      "title": "48 閲覧 ピニャータ クラッシュパーティー 期間 〜 場所 奈良県橿原市曲川町7-20-1 イオンモール橿原noNIWAコート、noNIWAひろば 料金 無料 48 閲覧",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "city": "Kashihara",
-      "location": "",
-      "description": "日程 2026/10/17 (土) - 2026/10/18 (日) 時間 （1）11:30～12:15（2）14:00～14:45（3）15:00～15:45（4）16:00～16:45（5）17:...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M49RF2X7APGND61ZM7JXHN45",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "free",
+      "priceNote": "Free admission/participation stated by organizer",
+      "additionalSources": [
+        "https://event.nsa.pref.nara.jp/events/01M49RF2X7APGND61ZM7JXHN45"
+      ]
     },
     {
       "id": "20e2d88beb35b8c4",
-      "title": "348 閲覧 今年も「かしはら藤原宮跡コスモスマルシェ」を開催します！ 期間 〜 場所 奈良県橿原市醍醐町 藤原宮大極殿跡　南側 348 閲覧",
+      "title": "今年も「かしはら藤原宮跡コスモスマルシェ」を開催します！",
       "start": "2026-10-17",
       "end": "2026-10-18",
       "city": "Kashihara",
@@ -172,26 +147,30 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "53202e988d3cb076",
-      "title": "5 広報かしば2026年7月号　第31回 香芝ふれあいフェスタ 期間",
+      "title": "広報かしば2026年7月号 第31回 香芝ふれあいフェスタ 期間",
       "start": "2026-11-01",
       "end": "2026-11-01",
-      "city": "Kashihara",
+      "city": "Kashiba",
       "location": "",
-      "description": "当サイトは、県をはじめとした公的機関や民間団体等のホームページ及びソーシャルネットワーキングサービス等によりＷｅｂ上で掲載・発信されている、奈良県内のイベント情報を自動的に集約し、奈良県民や県外からの観光客等がアクセスしやすいサイトとして提供することで、奈良県で開催されるイベント情報の効率的な周知を目的に開設しております…",
+      "description": "",
       "url": "https://event.nsa.pref.nara.jp/events/01KYTRA4M0QAFKXFVT6Q9S2B7R",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "6d973f9c19f63471",
-      "title": "予告 スーパーカーフェスin イオンモール橿原 ウエスト・ビレッジ",
+      "title": "スーパーカーフェスin イオンモール橿原 ウエスト・ビレッジ",
       "start": "2026-11-08",
       "end": "2026-11-08",
       "city": "Kashihara",
@@ -202,11 +181,13 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "c52b03281c78e132",
-      "title": "予告 赤ちゃんハイハイれ～す参加者大募集！",
+      "title": "赤ちゃんハイハイれ～す参加者大募集！",
       "start": "2026-11-10",
       "end": "2026-11-10",
       "city": "Kashihara",
@@ -217,11 +198,13 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "8dbf6d82b2c3a984",
-      "title": "予告 防災フェスタ inイオンモール橿原2026　Day１",
+      "title": "防災フェスタ inイオンモール橿原2026 Day１",
       "start": "2026-11-14",
       "end": "2026-11-14",
       "city": "Kashihara",
@@ -232,11 +215,13 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "1040e6786f14abcc",
-      "title": "予告 防災フェスタ inイオンモール橿原2026　Day2",
+      "title": "防災フェスタ inイオンモール橿原2026 Day2",
       "start": "2026-11-15",
       "end": "2026-11-15",
       "city": "Kashihara",
@@ -247,7 +232,9 @@
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing"
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     }
   ]
 }
