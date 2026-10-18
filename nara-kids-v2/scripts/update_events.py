@@ -9,6 +9,7 @@ import requests
 from icalendar import Calendar
 from municipal_events import extract_calendar
 from venue_events import extract_listing, extract_event_summary
+from event_quality import quality, deduplicate
 ROOT=Path(__file__).resolve().parents[1]
 JST=ZoneInfo('Asia/Tokyo')
 TODAY=datetime.now(JST).date()
@@ -107,7 +108,11 @@ def main():
         print('All sources failed; keeping previous published events.',file=sys.stderr)
         for error in failures:print(error,file=sys.stderr)
         sys.exit(1)
-    unique={e['id']:e for e in output}
+    normalized=[quality(e,TODAY) for e in output]
+    normalized=[e for e in normalized if e is not None]
+    normalized=deduplicate(normalized)
+    unique={e['id']:e for e in normalized}
+    print(f'Quality filtering: {len(output)} candidates -> {len(unique)} ongoing/upcoming unique events.')
     if not unique:
         print('WARNING: zero events extracted. Source layouts may have changed; check source counts and errors.', file=sys.stderr)
     data={'updatedAt':datetime.now(timezone.utc).isoformat(), 'sources':successes,

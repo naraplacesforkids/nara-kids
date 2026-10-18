@@ -18,11 +18,12 @@ def build(now=None):
     for event in src.get('events',[]):
         if not isinstance(event,dict) or not event.get('url','').startswith('https://'):continue
         start=event.get('start','');end=event.get('end') or start
+        if end<today.isoformat():continue
         if not (start<=monday.isoformat() and end>=saturday.isoformat()):continue
         key=(event.get('url'),event.get('start'),event.get('title'))
         if key in seen:continue
         seen.add(key)
-        featured.append({k:event.get(k) for k in ('id','title','start','end','city','location','description','url','provider','free','costKnown','reviewStatus','translations','time','age','booking') if k in event})
+        featured.append({k:event.get(k) for k in ('id','title','start','end','city','location','description','url','provider','free','costKnown','priceType','priceNote','reviewStatus','translations','time','age','booking') if k in event})
     cities={'Kashihara':0,'Asuka':1,'Sakurai':2,'Tenri':3,'Tawaramoto':4,'Yamatotakada':5,'Nara':6}
     featured.sort(key=lambda e:(cities.get(e.get('city'),30),e.get('start',''),e.get('title','')))
     out={'generatedAt':datetime.now(timezone.utc).isoformat(),'weekendStart':saturday.isoformat(),'weekendEnd':sunday.isoformat(),'mondayAfter':monday.isoformat(),'events':featured,'sourceUpdatedAt':src.get('updatedAt'),'sourceErrors':src.get('errors',[]),'note':'Monday listings are included for convenience; Monday is not necessarily a public holiday. All details require source confirmation.'}
