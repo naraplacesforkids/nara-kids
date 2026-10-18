@@ -14,7 +14,12 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r nara-kids-v2/requirements.txt
+      - run: pip install "jpholiday>=1.0,<2"
       - run: python nara-kids-v2/scripts/update_events.py
+      - name: Translate event summaries (optional)
+        env:
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
+        run: python nara-kids-v2/scripts/translate_events.py
       - run: python nara-kids-v2/scripts/build_weekly.py
       - name: Publish changed event data
         run: |

@@ -15,6 +15,11 @@
       "name": "Sakurai City",
       "city": "Sakurai",
       "url": "https://www.city.sakurai.lg.jp/calendar.html"
+    },
+    {
+      "name": "Nara City Official Calendar",
+      "city": "Nara",
+      "url": "https://www.city.nara.lg.jp/calendar/"
     }
   ],
   "reference_calendars": [
@@ -25,6 +30,10 @@
     {
       "name": "Nara Prefecture",
       "url": "https://www.pref.nara.lg.jp/cgi-bin/event_cal_multi/calendar.cgi"
+    },
+    {
+      "name": "Nara City Children Filter",
+      "url": "https://www.city.nara.lg.jp/calendar/index.php?dsp=1&s_d1%5B%5D=2&s_kw=&sch=1&sec_sec1=0&srt=1&sub_id=0"
     }
   ],
   "event_listings": [

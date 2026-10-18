@@ -15,6 +15,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r nara-kids-v2/requirements.txt
       - run: python nara-kids-v2/scripts/update_events.py
+      - run: pip install "jpholiday>=1.0,<2"
       - run: python nara-kids-v2/scripts/build_weekly.py
       - name: Publish guide
         run: |
