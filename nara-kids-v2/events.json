@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-10-18T03:41:08.329351+00:00",
+  "updatedAt": "2026-10-18T20:37:31.041602+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
     "Sakurai City",
+    "Nara City Official Calendar",
     "AEON Mall Kashihara Events",
     "Nara Prefecture Event Aggregator: Kashihara"
   ],
@@ -78,23 +79,6 @@
       "priceNote": ""
     },
     {
-      "id": "2cf2e631c7aca647",
-      "title": "最終日 シェフェスタ2026 AUTUMN WORLD FOOD FEST",
-      "start": "2026-10-10",
-      "end": "2026-10-18",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "シェフェスタ2026 AUTUMN「WORLD FOOD FEST」開催！ この秋、GWに好評だった「シェフェスタ」がイオンモール橿原にやってきます！ 今回のテーマは、「WORLD FOOD FEST」 世界の料理と奈良の食が出会う、5日間のフードフェス。 奈良・関西で活躍するシェフが日替わりで登場する「シェ",
-      "url": "https://kashihara.aeonmall.jp/event/5827a6c4-9e15-491f-a29f-5412a42ad8b7",
-      "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "0393a13c193a806f",
       "title": "木下大サーカス",
       "start": "2026-10-11",
@@ -113,43 +97,6 @@
       "additionalSources": [
         "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
       ]
-    },
-    {
-      "id": "1f1afe23a5eeaf84",
-      "title": "最終日 ピニャータ クラッシュパーティー",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "割れた後に、何が起きるかはお楽しみ！ ピニャータとは、メキシコで誕生日やパーティーなどのお祝いで使われるカラフルな紙製のオブジェです。 （5）17:00～17:45の会はハロウィンイルミネーションと一緒に楽しもう！ ■参加条件：参加無料 4歳以上(小学生以下のお子さまは保護者とのご参加）",
-      "url": "https://kashihara.aeonmall.jp/event/bf1eb618-7b65-4e18-9498-5edbf2e750d7",
-      "provider": "AEON Mall Kashihara Events",
-      "free": true,
-      "costKnown": true,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "free",
-      "priceNote": "Free admission/participation stated by organizer",
-      "additionalSources": [
-        "https://event.nsa.pref.nara.jp/events/01M49RF2X7APGND61ZM7JXHN45"
-      ]
-    },
-    {
-      "id": "20e2d88beb35b8c4",
-      "title": "今年も「かしはら藤原宮跡コスモスマルシェ」を開催します！",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "city": "Kashihara",
-      "location": "",
-      "description": "開催日・期間10月17日(土曜日) から 10月18日(日曜日) イベントの種類分野イベント / 観光・祭り 令和8年7月26日に世界遺産に登録された「飛鳥・藤原の宮都」の構成資産の一つである「藤原...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M39BKRZVRJAKD31HARK1QP3T",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
     },
     {
       "id": "53202e988d3cb076",

@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-10-18T03:41:08.428564+00:00",
+  "generatedAt": "2026-10-18T20:37:31.549929+00:00",
   "weekendStart": "2026-10-24",
   "weekendEnd": "2026-10-25",
   "mondayAfter": "2026-10-26",
+  "holidayDates": [],
   "events": [
     {
       "id": "1e8fc23468336cc3",
@@ -18,7 +19,8 @@
       "costKnown": false,
       "priceType": "unknown",
       "priceNote": "",
-      "reviewStatus": "unverified"
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     },
     {
       "id": "309b3f9c56d43ba7",
@@ -34,7 +36,8 @@
       "costKnown": false,
       "priceType": "unknown",
       "priceNote": "",
-      "reviewStatus": "unverified"
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     },
     {
       "id": "5bf6da3dc9a3dc09",
@@ -50,7 +53,8 @@
       "costKnown": false,
       "priceType": "unknown",
       "priceNote": "",
-      "reviewStatus": "unverified"
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     },
     {
       "id": "0393a13c193a806f",
@@ -66,7 +70,8 @@
       "costKnown": false,
       "priceType": "unknown",
       "priceNote": "",
-      "reviewStatus": "unverified"
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     },
     {
       "id": "58335bddadc689fe",
@@ -82,10 +87,11 @@
       "costKnown": false,
       "priceType": "unknown",
       "priceNote": "",
-      "reviewStatus": "unverified"
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-10-18T03:41:08.329351+00:00",
+  "sourceUpdatedAt": "2026-10-18T20:37:31.041602+00:00",
   "sourceErrors": [],
-  "note": "Monday listings are included for convenience; Monday is not necessarily a public holiday. All details require source confirmation."
+  "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
