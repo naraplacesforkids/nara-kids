@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:42:39.482758+00:00",
+  "updatedAt": "2026-10-20T20:43:56.675414+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -97,6 +97,40 @@
       "additionalSources": [
         "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
       ]
+    },
+    {
+      "id": "8cd74b5478c93d63",
+      "title": "広報かしはら2026年10月号 出張ひろば",
+      "start": "2026-10-21",
+      "end": "2026-10-21",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXAEBWMWRH9ST83NXM3P",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "5d074b46f17ba496",
+      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 今井会場",
+      "start": "2026-10-21",
+      "end": "2026-10-25",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNZJD20J4HG4B07HJ2",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "53202e988d3cb076",

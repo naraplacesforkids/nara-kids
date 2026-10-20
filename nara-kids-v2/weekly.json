@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-10-19T20:42:39.684931+00:00",
+  "generatedAt": "2026-10-20T20:43:56.911268+00:00",
   "weekendStart": "2026-10-24",
   "weekendEnd": "2026-10-25",
   "mondayAfter": "2026-10-26",
   "holidayDates": [],
   "events": [
+    {
+      "id": "5d074b46f17ba496",
+      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 今井会場",
+      "start": "2026-10-21",
+      "end": "2026-10-25",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNZJD20J4HG4B07HJ2",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
     {
       "id": "1e8fc23468336cc3",
       "title": "特別展「ふしぎなカマキリ」",
@@ -91,7 +108,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-10-19T20:42:39.482758+00:00",
+  "sourceUpdatedAt": "2026-10-20T20:43:56.675414+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
