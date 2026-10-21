@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:43:56.675414+00:00",
+  "updatedAt": "2026-10-21T20:42:58.943785+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -99,14 +99,14 @@
       ]
     },
     {
-      "id": "8cd74b5478c93d63",
-      "title": "広報かしはら2026年10月号 出張ひろば",
+      "id": "5d074b46f17ba496",
+      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 今井会場",
       "start": "2026-10-21",
-      "end": "2026-10-21",
+      "end": "2026-10-25",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXAEBWMWRH9ST83NXM3P",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNZJD20J4HG4B07HJ2",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -116,14 +116,14 @@
       "priceNote": ""
     },
     {
-      "id": "5d074b46f17ba496",
-      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 今井会場",
-      "start": "2026-10-21",
-      "end": "2026-10-25",
+      "id": "689502fdbf5580bc",
+      "title": "広報かしはら2026年10月号 誕生会 しらかしこども広場会場",
+      "start": "2026-10-22",
+      "end": "2026-10-22",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNZJD20J4HG4B07HJ2",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31CDPXFTC0PBX8R21D",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
