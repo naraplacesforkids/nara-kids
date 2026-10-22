@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:18:38.813656+00:00",
+  "updatedAt": "2026-10-22T20:41:48.484119+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -79,6 +79,23 @@
       "priceNote": ""
     },
     {
+      "id": "f48eb82298cdf125",
+      "title": "広報かしはら2026年10月号 バブバブタイム こども広場会場",
+      "start": "2026-10-06",
+      "end": "2026-10-23",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T319W5A0HTW5HMDXFRF",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
       "id": "0393a13c193a806f",
       "title": "木下大サーカス",
       "start": "2026-10-11",
@@ -107,23 +124,6 @@
       "location": "",
       "description": "",
       "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNZJD20J4HG4B07HJ2",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "689502fdbf5580bc",
-      "title": "広報かしはら2026年10月号 誕生会 しらかしこども広場会場",
-      "start": "2026-10-22",
-      "end": "2026-10-22",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31CDPXFTC0PBX8R21D",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
