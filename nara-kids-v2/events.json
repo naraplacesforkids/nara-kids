@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:43:32.294576+00:00",
+  "updatedAt": "2026-10-24T20:37:52.992866+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -133,14 +133,14 @@
       "priceNote": ""
     },
     {
-      "id": "ee704f79315df053",
-      "title": "ハロウィンイベント開催！",
+      "id": "33a2f0380a2dd65e",
+      "title": "ハロウィンのピカチュウサンバイザープレゼント",
       "start": "2026-10-24",
       "end": "2026-10-25",
       "city": "Kashihara",
       "location": "AEON Mall Kashihara",
-      "description": "お子さまに大人気のハロウィンイベントを開催します！ スタッフに元気よく「トリック・オア・トリート！」と伝えてね！ まずは、お気に入りのハロウィンバッグを選ぼう！ 次に、たくさんのお菓子の中から好きなお菓子を5個選んでバッグにIN！ 自分だけのハロウィンお菓子バッグを作って、お持ち帰りいただけます♪ 各日先着2",
-      "url": "https://kashihara.aeonmall.jp/event/71fd7281-b83c-47aa-9b15-de7893dea377",
+      "description": "ハロウィンのピカチュウサンバイザーを、来店されたお客さまに先着でプレゼント！日にち：10月24日(土)～10月25日(日)配布場所：3Fソユ―ゲームフィールド配布枚数：各日200枚©Scopely Explore @Pokémon/Nintendo/Creatures/GAME FREAKポケットモンスター・",
+      "url": "https://kashihara.aeonmall.jp/event/51cdede2-319c-4b60-b036-fe44230c97cd",
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
@@ -150,15 +150,15 @@
       "priceNote": ""
     },
     {
-      "id": "5950f9ea4462548b",
-      "title": "白橿生祭2026 DAIGOスペシャルトークショー",
+      "id": "ee704f79315df053",
+      "title": "ハロウィンイベント開催！",
       "start": "2026-10-24",
-      "end": "2026-10-24",
+      "end": "2026-10-25",
       "city": "Kashihara",
-      "location": "",
-      "description": "概要 開催日 2026年10月24日(土) 時間 開演時間 14:00 開場時間 13:15 会場 奈良県立医科大学 畝傍山キャンパス大講堂 (奈良県) 奈良県橿原市四条町88 奈良県立医科大学畝傍山...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M1FKWSD7QSQ06F8MVQ4R72JA",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "お子さまに大人気のハロウィンイベントを開催します！ スタッフに元気よく「トリック・オア・トリート！」と伝えてね！ まずは、お気に入りのハロウィンバッグを選ぼう！ 次に、たくさんのお菓子の中から好きなお菓子を5個選んでバッグにIN！ 自分だけのハロウィンお菓子バッグを作って、お持ち帰りいただけます♪ 各日先着2",
+      "url": "https://kashihara.aeonmall.jp/event/71fd7281-b83c-47aa-9b15-de7893dea377",
+      "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
