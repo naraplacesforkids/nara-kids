@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-10-24T20:37:53.249036+00:00",
+  "generatedAt": "2026-10-25T20:37:52.369580+00:00",
   "weekendStart": "2026-10-31",
   "weekendEnd": "2026-11-01",
   "mondayAfter": "2026-11-02",
   "holidayDates": [],
   "events": [
+    {
+      "id": "5a35cba36db38cc3",
+      "title": "ハロウィンイベント開催！",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "お子さまに大人気のハロウィンイベントを開催します！ スタッフに元気よく「トリック・オア・トリート！」と伝えてね！ まずは、お気に入りのハロウィンバッグを選ぼう！ 次に、たくさんのお菓子の中から好きなお菓子を5個選んでバッグにIN！ 自分だけのハロウィンお菓子バッグを作って、お持ち帰りいただけます♪ 各日先着2",
+      "url": "https://kashihara.aeonmall.jp/event/7043d4f7-4fa4-462a-aa5d-f48a8c67c25e",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
     {
       "id": "53202e988d3cb076",
       "title": "広報かしば2026年7月号 第31回 香芝ふれあいフェスタ 期間",
@@ -91,7 +108,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-10-24T20:37:52.992866+00:00",
+  "sourceUpdatedAt": "2026-10-25T20:37:52.107863+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
