@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:44:33.849890+00:00",
+  "updatedAt": "2026-10-28T20:52:02.491427+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -107,23 +107,6 @@
       "location": "",
       "description": "開催時期：令和8年10月27日（火曜日）～令和9年1月24日（日曜日） 展示会場：橿原市昆虫館 本館2階 標本展示室3 古くから文化が開け、人の暮らしと自然が関わって形成されてきた地、橿原。そして...",
       "url": "https://event.nsa.pref.nara.jp/events/01M56EXE98X0FSTBZ875CVA09W",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "ea24eee60a316a8b",
-      "title": "広報かしはら2026年10月号 KKSC ノルディックウォーキング体験会",
-      "start": "2026-10-28",
-      "end": "2026-10-28",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45GNCRA1Z8FMV3VKXX1CCYD",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
