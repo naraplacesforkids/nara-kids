@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-10-28T23:26:16.335676+00:00",
+  "generatedAt": "2026-10-29T20:53:26.460443+00:00",
   "weekendStart": "2026-10-31",
   "weekendEnd": "2026-11-01",
   "mondayAfter": "2026-11-02",
   "holidayDates": [],
   "events": [
+    {
+      "id": "1fbc856d1fb69926",
+      "title": "ハロウィンイベント",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "city": "Kashihara",
+      "location": "",
+      "description": "日程 2026/10/30 (金) - 2026/10/31 (土) ハロウィンフォトを撮って、お菓子をもらおう！ 10月30日（金）・31日（土）の2日間、南都銀行 イオンモール橿原出張所でハロウ...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3RG0A2EFPZNC59GYJB44SMC",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
     {
       "id": "5a35cba36db38cc3",
       "title": "ハロウィンイベント開催！",
@@ -108,6 +125,23 @@
       "section": "ongoing"
     },
     {
+      "id": "dca4e08189068174",
+      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
+      "start": "2026-10-30",
+      "end": "2026-12-11",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "ongoing"
+    },
+    {
       "id": "58335bddadc689fe",
       "title": "2026夏・秋 へぐり俚(さと)びフェスタ 始まります！",
       "start": "2026-07-18",
@@ -125,7 +159,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-10-28T23:26:15.583524+00:00",
+  "sourceUpdatedAt": "2026-10-29T20:53:26.210616+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
