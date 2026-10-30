@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:53:26.460443+00:00",
+  "generatedAt": "2026-10-30T20:49:59.845354+00:00",
   "weekendStart": "2026-10-31",
   "weekendEnd": "2026-11-01",
   "mondayAfter": "2026-11-02",
@@ -32,6 +32,23 @@
       "description": "お子さまに大人気のハロウィンイベントを開催します！ スタッフに元気よく「トリック・オア・トリート！」と伝えてね！ まずは、お気に入りのハロウィンバッグを選ぼう！ 次に、たくさんのお菓子の中から好きなお菓子を5個選んでバッグにIN！ 自分だけのハロウィンお菓子バッグを作って、お持ち帰りいただけます♪ 各日先着2",
       "url": "https://kashihara.aeonmall.jp/event/7043d4f7-4fa4-462a-aa5d-f48a8c67c25e",
       "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
+    {
+      "id": "004bbe248d201c2b",
+      "title": "広報かしはら2026年10月号 橿原市中央公民館フェスタ",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45CP9EQD08PXMRT2ZJ27QRY",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "priceType": "unknown",
@@ -125,23 +142,6 @@
       "section": "ongoing"
     },
     {
-      "id": "dca4e08189068174",
-      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
-      "start": "2026-10-30",
-      "end": "2026-12-11",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "priceType": "unknown",
-      "priceNote": "",
-      "reviewStatus": "unverified",
-      "section": "ongoing"
-    },
-    {
       "id": "58335bddadc689fe",
       "title": "2026夏・秋 へぐり俚(さと)びフェスタ 始まります！",
       "start": "2026-07-18",
@@ -159,7 +159,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-10-29T20:53:26.210616+00:00",
+  "sourceUpdatedAt": "2026-10-30T20:49:59.572951+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
