@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:49:59.572951+00:00",
+  "updatedAt": "2026-10-31T20:43:50.960329+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -10,23 +10,6 @@
   ],
   "errors": [],
   "events": [
-    {
-      "id": "58335bddadc689fe",
-      "title": "2026夏・秋 へぐり俚(さと)びフェスタ 始まります！",
-      "start": "2026-07-18",
-      "end": "2026-10-31",
-      "city": "Heguri",
-      "location": "",
-      "description": "〜古都華の聖地で、おいしい・楽しい夏と秋を！〜 道の駅「大和路へぐり」は、今、地域のお店や団体が協力し合って、地元を盛り上げる「未来プロジェクト」を推進中です！そんな活気あふれる道の駅で、この期間だ...",
-      "url": "https://event.nsa.pref.nara.jp/events/01KXHN2EXEP1VXP43F6XXW0XHD",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
     {
       "id": "309b3f9c56d43ba7",
       "title": "ハロウィンイルミネーション",
@@ -99,23 +82,6 @@
       "priceNote": ""
     },
     {
-      "id": "1fbc856d1fb69926",
-      "title": "ハロウィンイベント",
-      "start": "2026-10-30",
-      "end": "2026-10-31",
-      "city": "Kashihara",
-      "location": "",
-      "description": "日程 2026/10/30 (金) - 2026/10/31 (土) ハロウィンフォトを撮って、お菓子をもらおう！ 10月30日（金）・31日（土）の2日間、南都銀行 イオンモール橿原出張所でハロウ...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M3RG0A2EFPZNC59GYJB44SMC",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "5a35cba36db38cc3",
       "title": "ハロウィンイベント開催！",
       "start": "2026-10-31",
@@ -133,14 +99,14 @@
       "priceNote": ""
     },
     {
-      "id": "004bbe248d201c2b",
-      "title": "広報かしはら2026年10月号 橿原市中央公民館フェスタ",
-      "start": "2026-10-31",
-      "end": "2026-10-31",
+      "id": "7da211fe2b38a8fc",
+      "title": "広報かしはら2026年10月号 UTフェス＆在宅ケアを考える会",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45CP9EQD08PXMRT2ZJ27QRY",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45R1KRQ4JCQ49X9DN5H8PMQ",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
