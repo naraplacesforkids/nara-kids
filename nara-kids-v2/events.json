@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:45:01.622243+00:00",
+  "updatedAt": "2026-11-02T20:52:00.659139+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -10,6 +10,23 @@
   ],
   "errors": [],
   "events": [
+    {
+      "id": "55dd3de1cf1f0d92",
+      "title": "広報かしはら2026年6月号 こども科学館「教育プログラム」",
+      "start": "2026-07-12",
+      "end": "2026-12-12",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01KTJB9KSAYPRFM2VEK1HCHG83",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
     {
       "id": "0393a13c193a806f",
       "title": "木下大サーカス",
@@ -73,6 +90,23 @@
       "location": "AEON Mall Kashihara",
       "description": "冬の森に響く、動物たちの物語。 オリジナルストーリーの世界を舞台に、 光と音楽が織りなす 幻想的なイルミネーション 「光と森のSymphony」 ウエスト・ビレッジに現れた シロクマの森・トナカイの森・鳥の森では 光り輝く巨大な動物たちのモチーフが登場。 noNIWAひろばでは動物たちが織りなすコンサート 「",
       "url": "https://kashihara.aeonmall.jp/event/24b6855f-ab13-4649-a14a-ec8690e1ce8f",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "089ed3cccd3dfe45",
+      "title": "クリスマスイルミネーション点灯式＆スペシャルコンサート",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "クリスマスの訪れを告げる、光と音楽のスペシャルイベントを開催！ 奈良県や橿原市付近で活動する3団体による、心温まるクリスマスコンサートをお届けします。 鈴やタンバリン、トライアングル、ハンドベルなどが奏でる華やかで楽しいクリスマスソングや、セミアコースティックギターのソロアレンジによる、ゆったりとした優しい音",
+      "url": "https://kashihara.aeonmall.jp/event/fb5a16bf-ad4d-4960-974b-6de95561feca",
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
