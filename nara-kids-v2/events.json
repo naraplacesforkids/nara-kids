@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:52:00.659139+00:00",
+  "updatedAt": "2026-11-03T20:55:20.528027+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -10,23 +10,6 @@
   ],
   "errors": [],
   "events": [
-    {
-      "id": "55dd3de1cf1f0d92",
-      "title": "広報かしはら2026年6月号 こども科学館「教育プログラム」",
-      "start": "2026-07-12",
-      "end": "2026-12-12",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01KTJB9KSAYPRFM2VEK1HCHG83",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
     {
       "id": "0393a13c193a806f",
       "title": "木下大サーカス",
@@ -63,23 +46,6 @@
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
       "priceNote": ""
-    },
-    {
-      "id": "c76e630bc33d3e78",
-      "title": "GO! JOIN! にぎわいフェス in 五條 2026 期間",
-      "start": "2026-11-03",
-      "end": "2026-11-03",
-      "city": "Unconfirmed",
-      "location": "",
-      "description": "奈良県五條市で開催される「にぎわい」をテーマにしたイベント 会場 ベストライン上野パーク 住所 奈良県五條市上野町246番地 料金制度 有料イベント ジャンル 社会／コミュニティ > 地域活...",
-      "url": "https://event.nsa.pref.nara.jp/events/01KZ7R1VN9TP35Q62KTHW1M3PS",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": true,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "paid",
-      "priceNote": "Paid admission/participation indicated; check organizer"
     },
     {
       "id": "c1a8a50b92e85c2f",

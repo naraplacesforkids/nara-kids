@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:52:00.909756+00:00",
+  "generatedAt": "2026-11-03T20:55:20.780045+00:00",
   "weekendStart": "2026-11-07",
   "weekendEnd": "2026-11-08",
   "mondayAfter": "2026-11-09",
@@ -74,23 +74,6 @@
       "section": "special"
     },
     {
-      "id": "55dd3de1cf1f0d92",
-      "title": "広報かしはら2026年6月号 こども科学館「教育プログラム」",
-      "start": "2026-07-12",
-      "end": "2026-12-12",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01KTJB9KSAYPRFM2VEK1HCHG83",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "priceType": "unknown",
-      "priceNote": "",
-      "reviewStatus": "unverified",
-      "section": "ongoing"
-    },
-    {
       "id": "0393a13c193a806f",
       "title": "木下大サーカス",
       "start": "2026-10-11",
@@ -142,7 +125,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-02T20:52:00.659139+00:00",
+  "sourceUpdatedAt": "2026-11-03T20:55:20.528027+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
