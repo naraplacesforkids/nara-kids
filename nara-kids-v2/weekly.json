@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:35:28.701975+00:00",
+  "generatedAt": "2026-11-05T20:57:14.656706+00:00",
   "weekendStart": "2026-11-07",
   "weekendEnd": "2026-11-08",
   "mondayAfter": "2026-11-09",
@@ -108,6 +108,23 @@
       "section": "ongoing"
     },
     {
+      "id": "dca4e08189068174",
+      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
+      "start": "2026-10-30",
+      "end": "2026-12-11",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "ongoing"
+    },
+    {
       "id": "c1a8a50b92e85c2f",
       "title": "ウィンターイルミネーション「光と森のSymphony」",
       "start": "2026-11-06",
@@ -125,7 +142,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-04T23:35:28.032212+00:00",
+  "sourceUpdatedAt": "2026-11-05T20:57:14.458860+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
