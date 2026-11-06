@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:57:14.458860+00:00",
+  "updatedAt": "2026-11-06T20:53:49.304744+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -25,10 +25,7 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": "",
-      "additionalSources": [
-        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
-      ]
+      "priceNote": ""
     },
     {
       "id": "7899d15bff91f74d",
@@ -48,23 +45,6 @@
       "priceNote": ""
     },
     {
-      "id": "dca4e08189068174",
-      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
-      "start": "2026-10-30",
-      "end": "2026-12-11",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "c1a8a50b92e85c2f",
       "title": "ウィンターイルミネーション「光と森のSymphony」",
       "start": "2026-11-06",
@@ -74,23 +54,6 @@
       "description": "冬の森に響く、動物たちの物語。 オリジナルストーリーの世界を舞台に、 光と音楽が織りなす 幻想的なイルミネーション 「光と森のSymphony」 ウエスト・ビレッジに現れた シロクマの森・トナカイの森・鳥の森では 光り輝く巨大な動物たちのモチーフが登場。 noNIWAひろばでは動物たちが織りなすコンサート 「",
       "url": "https://kashihara.aeonmall.jp/event/24b6855f-ab13-4649-a14a-ec8690e1ce8f",
       "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "e085bad2a4c57217",
-      "title": "木村家ファミリーコンサート２０２６",
-      "start": "2026-11-06",
-      "end": "2026-11-06",
-      "city": "Kashihara",
-      "location": "",
-      "description": "開催日 2026年11月6日(金) 時間 【第一部】13:30-15:20 【第二部】17:30-19:20 場所 橿原文化会館大ホール チケット情報 発売中 主催 奈良新聞社／株式会社DET 概...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M39W7HM26RY8W7H6ZY0DRXF2",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
@@ -147,7 +110,10 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": ""
+      "priceNote": "",
+      "additionalSources": [
+        "https://event.nsa.pref.nara.jp/events/01M61HZMET23SYJ8MM3B1KRQGH"
+      ]
     },
     {
       "id": "6d973f9c19f63471",
