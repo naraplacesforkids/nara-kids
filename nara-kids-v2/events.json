@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:53:49.304744+00:00",
+  "updatedAt": "2026-11-07T20:46:07.830249+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -62,23 +62,6 @@
       "priceNote": ""
     },
     {
-      "id": "089ed3cccd3dfe45",
-      "title": "クリスマスイルミネーション点灯式＆スペシャルコンサート",
-      "start": "2026-11-07",
-      "end": "2026-11-07",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "クリスマスの訪れを告げる、光と音楽のスペシャルイベントを開催！ 奈良県や橿原市付近で活動する3団体による、心温まるクリスマスコンサートをお届けします。 鈴やタンバリン、トライアングル、ハンドベルなどが奏でる華やかで楽しいクリスマスソングや、セミアコースティックギターのソロアレンジによる、ゆったりとした優しい音",
-      "url": "https://kashihara.aeonmall.jp/event/fb5a16bf-ad4d-4960-974b-6de95561feca",
-      "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "e1e7fc97e99fd33f",
       "title": "ちょいムズチャレンジ＆ナニツク教室ワークショップ",
       "start": "2026-11-07",
@@ -125,6 +108,23 @@
       "description": "西日本最大級のイオンモール橿原west villageに世界各国最高峰のスーパーカーが集結！ 【スケジュール】 10:00～ 開会・挨拶 11:00～ 参加車両による「サウンドパフォーマンス」1回目 13:00～ 参加車両による「サウンドパフォーマンス」2回目 14:00～ 退場パレード",
       "url": "https://kashihara.aeonmall.jp/event/bdbd2d17-7bcc-4849-9877-61a58e7973ae",
       "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "033665a8f956e88b",
+      "title": "千塚KoFunフェスタ2026",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "city": "Kashihara",
+      "location": "",
+      "description": "開催趣旨 新沢千塚古墳群公園周辺に点在する、市の各施設の特色・魅力を同時発信することで、幅広い世代の方々に”いきもの・歴史・スポーツ”に「来て」「見て」「ふれて」楽しんでいただくことを目的としています...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M5GK6WRAJJESZYY0C64BB6TS",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
