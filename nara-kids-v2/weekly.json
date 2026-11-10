@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:58:55.447351+00:00",
+  "generatedAt": "2026-11-10T20:53:26.793748+00:00",
   "weekendStart": "2026-11-14",
   "weekendEnd": "2026-11-15",
   "mondayAfter": "2026-11-16",
@@ -91,7 +91,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-09T20:58:55.211389+00:00",
+  "sourceUpdatedAt": "2026-11-10T20:53:26.559539+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
