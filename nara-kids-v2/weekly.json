@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:53:26.793748+00:00",
+  "generatedAt": "2026-11-11T21:42:55.368360+00:00",
   "weekendStart": "2026-11-14",
   "weekendEnd": "2026-11-15",
   "mondayAfter": "2026-11-16",
@@ -29,7 +29,7 @@
       "end": "2026-11-15",
       "city": "Kashihara",
       "location": "AEON Mall Kashihara",
-      "description": "昨年もたくさんの方にご来場いただいた防災フェスタ。 今年は2日間に渡って開催し、さらにパワーアップした内容でお届けします！ 一緒に防災について考えるきっかけにしませんか? ◎奈良県広域消防組合消防本部 【ウエスト・ビレッジ 平面H駐車場（無印良品前駐車場）】 ・消防車両展示コーナー・煙ハウス体験 ・はしご車乗",
+      "description": "昨年もたくさんの方にご来場いただいた防災フェスタ。 今年は2日間に渡って開催し、さらにパワーアップした内容でお届けします！ 一緒に防災について考えるきっかけにしませんか? ◎奈良県広域消防組合消防本部 【ウエスト・ビレッジ 平面H駐車場（無印良品前駐車場）】 ・消防車両展示コーナー ・はしご車乗車体験 ※予約",
       "url": "https://kashihara.aeonmall.jp/event/ce8adb88-3280-4929-b9ff-5bd32449de1d",
       "provider": "AEON Mall Kashihara Events",
       "free": false,
@@ -91,7 +91,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-10T20:53:26.559539+00:00",
+  "sourceUpdatedAt": "2026-11-11T21:42:55.138070+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }

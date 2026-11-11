@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:53:26.559539+00:00",
+  "updatedAt": "2026-11-11T21:42:55.138070+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -65,6 +65,23 @@
       "priceNote": ""
     },
     {
+      "id": "6bc665b186a46c80",
+      "title": "広報かしはら2026年10月号 子育て講座「橿ママブラス音楽鑑賞会」",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31ZXCAM6XZCYB7NR12",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
       "id": "8dbf6d82b2c3a984",
       "title": "防災フェスタ inイオンモール橿原2026 Day１",
       "start": "2026-11-14",
@@ -88,7 +105,7 @@
       "end": "2026-11-15",
       "city": "Kashihara",
       "location": "AEON Mall Kashihara",
-      "description": "昨年もたくさんの方にご来場いただいた防災フェスタ。 今年は2日間に渡って開催し、さらにパワーアップした内容でお届けします！ 一緒に防災について考えるきっかけにしませんか? ◎奈良県広域消防組合消防本部 【ウエスト・ビレッジ 平面H駐車場（無印良品前駐車場）】 ・消防車両展示コーナー・煙ハウス体験 ・はしご車乗",
+      "description": "昨年もたくさんの方にご来場いただいた防災フェスタ。 今年は2日間に渡って開催し、さらにパワーアップした内容でお届けします！ 一緒に防災について考えるきっかけにしませんか? ◎奈良県広域消防組合消防本部 【ウエスト・ビレッジ 平面H駐車場（無印良品前駐車場）】 ・消防車両展示コーナー ・はしご車乗車体験 ※予約",
       "url": "https://kashihara.aeonmall.jp/event/ce8adb88-3280-4929-b9ff-5bd32449de1d",
       "provider": "AEON Mall Kashihara Events",
       "free": false,
