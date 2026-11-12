@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:41:40.375306+00:00",
+  "updatedAt": "2026-11-12T20:57:39.984461+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -65,14 +65,31 @@
       "priceNote": ""
     },
     {
-      "id": "6bc665b186a46c80",
-      "title": "広報かしはら2026年10月号 子育て講座「橿ママブラス音楽鑑賞会」",
-      "start": "2026-11-12",
-      "end": "2026-11-12",
+      "id": "70dcf8f16855b24e",
+      "title": "広報かしはら2026年10月号 家庭教育支援講座 ～リズム遊び 11月～ 耳成南幼稚園会場",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31ZXCAM6XZCYB7NR12",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXGAX775SVNQ8P7QCKJG",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "b5014c07e3367cc8",
+      "title": "広報かしはら2026年10月号 すこやか子ども相談",
+      "start": "2026-11-13",
+      "end": "2026-11-16",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45QMY3P90A9HPRS6N7FDVN4",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,

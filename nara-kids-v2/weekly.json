@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-11-11T23:41:41.217620+00:00",
+  "generatedAt": "2026-11-12T20:57:40.226977+00:00",
   "weekendStart": "2026-11-14",
   "weekendEnd": "2026-11-15",
   "mondayAfter": "2026-11-16",
   "holidayDates": [],
   "events": [
+    {
+      "id": "b5014c07e3367cc8",
+      "title": "広報かしはら2026年10月号 すこやか子ども相談",
+      "start": "2026-11-13",
+      "end": "2026-11-16",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45QMY3P90A9HPRS6N7FDVN4",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
     {
       "id": "8dbf6d82b2c3a984",
       "title": "防災フェスタ inイオンモール橿原2026 Day１",
@@ -91,7 +108,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-11T23:41:40.375306+00:00",
+  "sourceUpdatedAt": "2026-11-12T20:57:39.984461+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
