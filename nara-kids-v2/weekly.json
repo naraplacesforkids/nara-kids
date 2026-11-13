@@ -1,19 +1,36 @@
 {
-  "generatedAt": "2026-11-12T20:57:40.226977+00:00",
+  "generatedAt": "2026-11-13T20:59:07.314990+00:00",
   "weekendStart": "2026-11-14",
   "weekendEnd": "2026-11-15",
   "mondayAfter": "2026-11-16",
   "holidayDates": [],
   "events": [
     {
-      "id": "b5014c07e3367cc8",
-      "title": "広報かしはら2026年10月号 すこやか子ども相談",
-      "start": "2026-11-13",
-      "end": "2026-11-16",
+      "id": "4688a01bf0ac4beb",
+      "title": "11月14日＆15日開催 こども科学館「関西文化の日」イベント",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "city": "Kashihara",
+      "location": "",
+      "description": "開催場所・会場橿原市立こども科学館 開催日・期間令和8年11月14日(土曜日)～15日(日曜日) 9時30分～17時 イベントの種類分野イベント / 学習・体験 , 子ども・子育て 11月14日（土曜...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M42368JPTFS5XWBWC80YPDT8",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
+    {
+      "id": "665d604b2a5db903",
+      "title": "広報かしはら2026年10月号 第22回市町村対抗子ども駅伝大会選考会",
+      "start": "2026-11-14",
+      "end": "2026-12-06",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMY3P90A9HPRS6N7FDVN4",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45GNCRAHMTXB33BBFSNR248",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -108,7 +125,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-12T20:57:39.984461+00:00",
+  "sourceUpdatedAt": "2026-11-13T20:59:07.102000+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }

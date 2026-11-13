@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:57:39.984461+00:00",
+  "updatedAt": "2026-11-13T20:59:07.102000+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -25,10 +25,7 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": "",
-      "additionalSources": [
-        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
-      ]
+      "priceNote": ""
     },
     {
       "id": "7899d15bff91f74d",
@@ -65,40 +62,6 @@
       "priceNote": ""
     },
     {
-      "id": "70dcf8f16855b24e",
-      "title": "広報かしはら2026年10月号 家庭教育支援講座 ～リズム遊び 11月～ 耳成南幼稚園会場",
-      "start": "2026-11-13",
-      "end": "2026-11-13",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXGAX775SVNQ8P7QCKJG",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "b5014c07e3367cc8",
-      "title": "広報かしはら2026年10月号 すこやか子ども相談",
-      "start": "2026-11-13",
-      "end": "2026-11-16",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMY3P90A9HPRS6N7FDVN4",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "8dbf6d82b2c3a984",
       "title": "防災フェスタ inイオンモール橿原2026 Day１",
       "start": "2026-11-14",
@@ -108,6 +71,40 @@
       "description": "昨年もたくさんの方にご来場いただいた防災フェスタ。 今年は2日間に渡って開催し、さらにパワーアップした内容でお届けします！ 一緒に防災について考えるきっかけにしませんか? ◎橿原警察署 【ウエスト・ビレッジ 平面H駐車場（無印良品前駐車場）】 ・パトカー＆移動交番の車両展示・乗車体験 ・キッズポリス制服着用体",
       "url": "https://kashihara.aeonmall.jp/event/78be3d3d-7cdc-491b-8d78-752e9c111528",
       "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "4688a01bf0ac4beb",
+      "title": "11月14日＆15日開催 こども科学館「関西文化の日」イベント",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "city": "Kashihara",
+      "location": "",
+      "description": "開催場所・会場橿原市立こども科学館 開催日・期間令和8年11月14日(土曜日)～15日(日曜日) 9時30分～17時 イベントの種類分野イベント / 学習・体験 , 子ども・子育て 11月14日（土曜...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M42368JPTFS5XWBWC80YPDT8",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "665d604b2a5db903",
+      "title": "広報かしはら2026年10月号 第22回市町村対抗子ども駅伝大会選考会",
+      "start": "2026-11-14",
+      "end": "2026-12-06",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45GNCRAHMTXB33BBFSNR248",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
