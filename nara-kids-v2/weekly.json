@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:46:56.983260+00:00",
+  "generatedAt": "2026-11-15T20:48:01.780944+00:00",
   "weekendStart": "2026-11-21",
   "weekendEnd": "2026-11-22",
   "mondayAfter": "2026-11-23",
@@ -7,6 +7,23 @@
     "2026-11-23"
   ],
   "events": [
+    {
+      "id": "db83707dfac504c0",
+      "title": "【予告】ユニクロ・GU感謝祭",
+      "start": "2026-11-20",
+      "end": "2026-11-26",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "【予告】ユニクロ感謝祭 日ごろのご愛顧への「ありがとう」を込めた、ユニクロ感謝祭を11月20日（金）から開催します！ユニクロの代表作を感謝価格でご用意。今年最大の「ありがとう」を込めた7日間。 ユニクロ感謝祭は11月20日（金）から11月26日（木）まで！開催をどうぞお楽しみに。https://www.uni",
+      "url": "https://kashihara.aeonmall.jp/event/5a7b3040-5b2f-4dba-9e2f-23c3ff7d72e0",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
     {
       "id": "c575ca1cafb70b3d",
       "title": "バルーン界の貴公子 バルーンパフォーマーAkiのクリスマスバルーンショー",
@@ -74,26 +91,9 @@
       "priceNote": "",
       "reviewStatus": "unverified",
       "section": "ongoing"
-    },
-    {
-      "id": "23d68b576c4e6150",
-      "title": "広報かしはら2026年11月号 ZUMBA® 1回無料体験",
-      "start": "2026-11-15",
-      "end": "2026-11-29",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXDR3KH60AHC4Q40HNEJ",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "priceType": "unknown",
-      "priceNote": "",
-      "reviewStatus": "unverified",
-      "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-14T20:46:56.802206+00:00",
+  "sourceUpdatedAt": "2026-11-15T20:48:01.532061+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
