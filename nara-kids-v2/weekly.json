@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:48:01.780944+00:00",
+  "generatedAt": "2026-11-17T02:55:33.277773+00:00",
   "weekendStart": "2026-11-21",
   "weekendEnd": "2026-11-22",
   "mondayAfter": "2026-11-23",
@@ -91,9 +91,26 @@
       "priceNote": "",
       "reviewStatus": "unverified",
       "section": "ongoing"
+    },
+    {
+      "id": "897ed64f9871b480",
+      "title": "広報かしはら2026年7月号 橿原市美術展覧会 作品募集",
+      "start": "2026-11-17",
+      "end": "2026-11-26",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01KW92Z5EG1BPXKD6F2JN31JBX",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-15T20:48:01.532061+00:00",
+  "sourceUpdatedAt": "2026-11-17T02:55:33.084995+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
