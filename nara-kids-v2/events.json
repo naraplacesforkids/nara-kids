@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:26:14.456467+00:00",
+  "updatedAt": "2026-11-18T23:42:18.291680+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -82,14 +82,14 @@
       "priceNote": ""
     },
     {
-      "id": "cf1b78ecc323c109",
-      "title": "広報かしはら2026年11月号 出張ひろば",
-      "start": "2026-11-18",
-      "end": "2026-11-18",
+      "id": "cfbbe7eec2004775",
+      "title": "＜11月19日開催＞「ぬりえ体験ひろば」参加者募集！",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
       "city": "Kashihara",
       "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXM36M5YYAN56J1WTJ6D",
+      "description": "橿原市市民活動登録団体・個人のイベントのご案内です。 大人のわくわくぬりえ時間！！＜11月から2部制になりました＞ ぬりえ体験ひろばを開催します。 ぬりえは完全手作りで、太い線で塗りやすい。 お一人...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M56EXE98D1E4CKVH5AQRCKC6",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
