@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:55:33.084995+00:00",
+  "updatedAt": "2026-11-18T02:26:14.456467+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -65,14 +65,14 @@
       "priceNote": ""
     },
     {
-      "id": "013014f59f9e2c2e",
-      "title": "広報かしはら2026年10月号 家庭教育支援講座 ～リズム遊び 11月～ 耳成幼稚園会場",
+      "id": "897ed64f9871b480",
+      "title": "広報かしはら2026年7月号 橿原市美術展覧会 作品募集",
       "start": "2026-11-17",
-      "end": "2026-11-17",
+      "end": "2026-11-26",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXQ2RZQX51CATFSZ3PCJ",
+      "url": "https://event.nsa.pref.nara.jp/events/01KW92Z5EG1BPXKD6F2JN31JBX",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -82,14 +82,14 @@
       "priceNote": ""
     },
     {
-      "id": "897ed64f9871b480",
-      "title": "広報かしはら2026年7月号 橿原市美術展覧会 作品募集",
-      "start": "2026-11-17",
-      "end": "2026-11-26",
+      "id": "cf1b78ecc323c109",
+      "title": "広報かしはら2026年11月号 出張ひろば",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01KW92Z5EG1BPXKD6F2JN31JBX",
+      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXM36M5YYAN56J1WTJ6D",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
