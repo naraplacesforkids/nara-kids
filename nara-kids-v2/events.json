@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:52:34.133977+00:00",
+  "updatedAt": "2026-11-20T01:46:57.607649+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -25,10 +25,7 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": "",
-      "additionalSources": [
-        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
-      ]
+      "priceNote": ""
     },
     {
       "id": "7899d15bff91f74d",
@@ -39,6 +36,23 @@
       "location": "",
       "description": "開催時期：令和8年10月27日（火曜日）～令和9年1月24日（日曜日） 展示会場：橿原市昆虫館 本館2階 標本展示室3 古くから文化が開け、人の暮らしと自然が関わって形成されてきた地、橿原。そして...",
       "url": "https://event.nsa.pref.nara.jp/events/01M56EXE98X0FSTBZ875CVA09W",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "dca4e08189068174",
+      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
+      "start": "2026-10-30",
+      "end": "2026-12-11",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -82,14 +96,31 @@
       "priceNote": ""
     },
     {
-      "id": "cfbbe7eec2004775",
-      "title": "＜11月19日開催＞「ぬりえ体験ひろば」参加者募集！",
-      "start": "2026-11-19",
-      "end": "2026-11-19",
+      "id": "e57c55e26fe8916c",
+      "title": "ユニクロ・GU感謝祭",
+      "start": "2026-11-20",
+      "end": "2026-11-26",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "ユニクロ感謝祭開催中！ 日ごろのご愛顧への「ありがとう」を込めた、ユニクロ感謝祭を開催中！ヒートテックやパフテックなど、ユニクロの代表作を感謝価格でご用意しています。ユニクロ感謝祭は11月26日（木）まで！ ぜひこの機会に、感謝祭でのお買い物をお楽しみください。https://www.uniqlo.com/j",
+      "url": "https://kashihara.aeonmall.jp/event/907bc65b-d21f-400c-b6d6-1803811b6ed1",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "9e4f8a4fef8fb93b",
+      "title": "広報かしはら2026年10月号 家庭教育支援講座 ～リズム遊び 11月～ 畝傍認定こども園会場",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
       "city": "Kashihara",
       "location": "",
-      "description": "橿原市市民活動登録団体・個人のイベントのご案内です。 大人のわくわくぬりえ時間！！＜11月から2部制になりました＞ ぬりえ体験ひろばを開催します。 ぬりえは完全手作りで、太い線で塗りやすい。 お一人...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M56EXE98D1E4CKVH5AQRCKC6",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXXCV9ASC0BSMJZZM44H",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -99,15 +130,15 @@
       "priceNote": ""
     },
     {
-      "id": "db83707dfac504c0",
-      "title": "【予告】ユニクロ・GU感謝祭",
+      "id": "ac3908dfe6d8a58d",
+      "title": "広報かしはら2026年10月号 特別講座「親子でリズム遊び」",
       "start": "2026-11-20",
-      "end": "2026-11-26",
+      "end": "2026-11-20",
       "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "【予告】ユニクロ感謝祭 日ごろのご愛顧への「ありがとう」を込めた、ユニクロ感謝祭を11月20日（金）から開催します！ユニクロの代表作を感謝価格でご用意。今年最大の「ありがとう」を込めた7日間。 ユニクロ感謝祭は11月20日（金）から11月26日（木）まで！開催をどうぞお楽しみに。https://www.uni",
-      "url": "https://kashihara.aeonmall.jp/event/5a7b3040-5b2f-4dba-9e2f-23c3ff7d72e0",
-      "provider": "AEON Mall Kashihara Events",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31PRQPCAR5ZADAKH6T",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
@@ -148,6 +179,23 @@
       "discoveredFrom": "public_event_listing",
       "priceType": "free",
       "priceNote": "Free admission/participation stated by organizer"
+    },
+    {
+      "id": "ddb33de86685693e",
+      "title": "年に一度の BIG なチャンス☆ ブラックフライデーマルシェ",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "お子さまから大人まで楽しめる「ワクワクお買い物マルシェ」を開催します。 抽選にチャレンジして、マルシェ専用通貨「いいな」をGET！ 獲得した「いいな」の金額に応じて、 お菓子や日用品など、お好きな商品をお選びいただけます。 「何にしよう？」「これがほしい！」 商品を選ぶ時間も楽しい、 まるで本物のお買い物のよ",
+      "url": "https://kashihara.aeonmall.jp/event/cf47b1b5-fc46-478d-b0a5-edad405fb200",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
     },
     {
       "id": "584500c9376ebd5e",

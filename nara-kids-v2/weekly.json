@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:52:34.401661+00:00",
+  "generatedAt": "2026-11-20T01:46:57.880920+00:00",
   "weekendStart": "2026-11-21",
   "weekendEnd": "2026-11-22",
   "mondayAfter": "2026-11-23",
@@ -8,14 +8,14 @@
   ],
   "events": [
     {
-      "id": "db83707dfac504c0",
-      "title": "【予告】ユニクロ・GU感謝祭",
+      "id": "e57c55e26fe8916c",
+      "title": "ユニクロ・GU感謝祭",
       "start": "2026-11-20",
       "end": "2026-11-26",
       "city": "Kashihara",
       "location": "AEON Mall Kashihara",
-      "description": "【予告】ユニクロ感謝祭 日ごろのご愛顧への「ありがとう」を込めた、ユニクロ感謝祭を11月20日（金）から開催します！ユニクロの代表作を感謝価格でご用意。今年最大の「ありがとう」を込めた7日間。 ユニクロ感謝祭は11月20日（金）から11月26日（木）まで！開催をどうぞお楽しみに。https://www.uni",
-      "url": "https://kashihara.aeonmall.jp/event/5a7b3040-5b2f-4dba-9e2f-23c3ff7d72e0",
+      "description": "ユニクロ感謝祭開催中！ 日ごろのご愛顧への「ありがとう」を込めた、ユニクロ感謝祭を開催中！ヒートテックやパフテックなど、ユニクロの代表作を感謝価格でご用意しています。ユニクロ感謝祭は11月26日（木）まで！ ぜひこの機会に、感謝祭でのお買い物をお楽しみください。https://www.uniqlo.com/j",
+      "url": "https://kashihara.aeonmall.jp/event/907bc65b-d21f-400c-b6d6-1803811b6ed1",
       "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
@@ -76,6 +76,23 @@
       "section": "ongoing"
     },
     {
+      "id": "dca4e08189068174",
+      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
+      "start": "2026-10-30",
+      "end": "2026-12-11",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "ongoing"
+    },
+    {
       "id": "c1a8a50b92e85c2f",
       "title": "ウィンターイルミネーション「光と森のSymphony」",
       "start": "2026-11-06",
@@ -110,7 +127,7 @@
       "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-19T01:52:34.133977+00:00",
+  "sourceUpdatedAt": "2026-11-20T01:46:57.607649+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
