@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:46:57.607649+00:00",
+  "updatedAt": "2026-11-21T01:30:16.878812+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -25,7 +25,10 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": ""
+      "priceNote": "",
+      "additionalSources": [
+        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
+      ]
     },
     {
       "id": "7899d15bff91f74d",
@@ -36,23 +39,6 @@
       "location": "",
       "description": "開催時期：令和8年10月27日（火曜日）～令和9年1月24日（日曜日） 展示会場：橿原市昆虫館 本館2階 標本展示室3 古くから文化が開け、人の暮らしと自然が関わって形成されてきた地、橿原。そして...",
       "url": "https://event.nsa.pref.nara.jp/events/01M56EXE98X0FSTBZ875CVA09W",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "dca4e08189068174",
-      "title": "広報かしはら2026年9月号 親子関係形成支援事業（後期）",
-      "start": "2026-10-30",
-      "end": "2026-12-11",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M3EJJ6JQS8J46CVWWC5C34N9",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
@@ -113,31 +99,14 @@
       "priceNote": ""
     },
     {
-      "id": "9e4f8a4fef8fb93b",
-      "title": "広報かしはら2026年10月号 家庭教育支援講座 ～リズム遊び 11月～ 畝傍認定こども園会場",
-      "start": "2026-11-20",
-      "end": "2026-11-20",
+      "id": "307163908c461a54",
+      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 八木会場",
+      "start": "2026-11-21",
+      "end": "2026-11-23",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45QMXXCV9ASC0BSMJZZM44H",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "ac3908dfe6d8a58d",
-      "title": "広報かしはら2026年10月号 特別講座「親子でリズム遊び」",
-      "start": "2026-11-20",
-      "end": "2026-11-20",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45Q2T31PRQPCAR5ZADAKH6T",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNHVA8SD636045GNW2",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
