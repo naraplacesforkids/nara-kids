@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:19:42.452963+00:00",
+  "generatedAt": "2026-11-23T00:51:33.060133+00:00",
   "weekendStart": "2026-11-28",
   "weekendEnd": "2026-11-29",
   "mondayAfter": "2026-11-30",
@@ -89,26 +89,9 @@
       "priceNote": "",
       "reviewStatus": "unverified",
       "section": "ongoing"
-    },
-    {
-      "id": "23d68b576c4e6150",
-      "title": "広報かしはら2026年11月号 ZUMBA® 1回無料体験",
-      "start": "2026-11-15",
-      "end": "2026-11-29",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXDR3KH60AHC4Q40HNEJ",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "priceType": "unknown",
-      "priceNote": "",
-      "reviewStatus": "unverified",
-      "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-22T00:19:42.254174+00:00",
+  "sourceUpdatedAt": "2026-11-23T00:51:32.860471+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }

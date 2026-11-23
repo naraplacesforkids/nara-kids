@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:19:42.254174+00:00",
+  "updatedAt": "2026-11-23T00:51:32.860471+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -65,23 +65,6 @@
       "priceNote": ""
     },
     {
-      "id": "23d68b576c4e6150",
-      "title": "広報かしはら2026年11月号 ZUMBA® 1回無料体験",
-      "start": "2026-11-15",
-      "end": "2026-11-29",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXDR3KH60AHC4Q40HNEJ",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "897ed64f9871b480",
       "title": "広報かしはら2026年7月号 橿原市美術展覧会 作品募集",
       "start": "2026-11-17",
@@ -125,23 +108,6 @@
       "description": "",
       "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNHVA8SD636045GNW2",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "c575ca1cafb70b3d",
-      "title": "バルーン界の貴公子 バルーンパフォーマーAkiのクリスマスバルーンショー",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "パフォーマー界に咲く一輪の薔薇。 バルーンの国内大会でも２年連続優勝！ スピード・テクニックを重視し観る方を魅了する。 また大道芸コンテストでも 6 大会全て優勝を果たしバ ルーンパフォーマーとして日本人初の海外のフェス ティバルで招待を受け出場を果たす。 近年ではイタリ アのフェスティバルにて 3 連続受賞",
-      "url": "https://kashihara.aeonmall.jp/event/75a84d4c-8427-4396-a87e-55ff8c51860e",
-      "provider": "AEON Mall Kashihara Events",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",
