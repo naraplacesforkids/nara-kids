@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:51:32.860471+00:00",
+  "updatedAt": "2026-11-24T04:47:08.907639+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -65,6 +65,23 @@
       "priceNote": ""
     },
     {
+      "id": "f74162deeec24ea9",
+      "title": "広報かしはら2026年11月号 バブバブタイム こども広場会場",
+      "start": "2026-11-06",
+      "end": "2026-11-24",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXM2EZD8WXQM59QM8ZVC",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
       "id": "897ed64f9871b480",
       "title": "広報かしはら2026年7月号 橿原市美術展覧会 作品募集",
       "start": "2026-11-17",
@@ -99,14 +116,31 @@
       "priceNote": ""
     },
     {
-      "id": "307163908c461a54",
-      "title": "広報かしはら2026年10月号 奈良・町家の芸術祭 はならぁと 2026 八木会場",
-      "start": "2026-11-21",
-      "end": "2026-11-23",
+      "id": "0adecc0cb5c852bf",
+      "title": "テスラ 最新車両・家庭用蓄電池 特別展示",
+      "start": "2026-11-20",
+      "end": "2026-11-25",
+      "city": "Kashihara",
+      "location": "AEON Mall Kashihara",
+      "description": "テスラのミッドサイズ SUVの「Model Y」、スポーツセダン「Model 3」をご用意し、プロダクト情報はもちろん、電気自動車の仕組みや、充電、電気自動車に関わる補助金や税制などの購入後のランニングコストなどを分かりやすくお伝えします。また、最寄りのテスラストアでの試乗予約も会場で受付中。 さらに、今年8",
+      "url": "https://kashihara.aeonmall.jp/event/19df5ee1-c93e-4f84-a60b-d5228e713d35",
+      "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "fcb030a6e7308beb",
+      "title": "市町村向けデモ体験会参加事業者募集",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
       "city": "Kashihara",
       "location": "",
       "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M45CP8YNHVA8SD636045GNW2",
+      "url": "https://event.nsa.pref.nara.jp/events/01M539ZHXHZ2MGGTCGJ9YJ5JG6",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
