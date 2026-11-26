@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:32:13.395354+00:00",
+  "updatedAt": "2026-11-26T02:51:00.161543+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -83,7 +83,7 @@
     },
     {
       "id": "e57c55e26fe8916c",
-      "title": "ユニクロ・GU感謝祭",
+      "title": "最終日 ユニクロ・GU感謝祭",
       "start": "2026-11-20",
       "end": "2026-11-26",
       "city": "Kashihara",
@@ -99,31 +99,14 @@
       "priceNote": ""
     },
     {
-      "id": "0adecc0cb5c852bf",
-      "title": "最終日 テスラ 最新車両・家庭用蓄電池 特別展示",
-      "start": "2026-11-20",
-      "end": "2026-11-25",
-      "city": "Kashihara",
-      "location": "AEON Mall Kashihara",
-      "description": "テスラのミッドサイズ SUVの「Model Y」、スポーツセダン「Model 3」をご用意し、プロダクト情報はもちろん、電気自動車の仕組みや、充電、電気自動車に関わる補助金や税制などの購入後のランニングコストなどを分かりやすくお伝えします。また、最寄りのテスラストアでの試乗予約も会場で受付中。 さらに、今年8",
-      "url": "https://kashihara.aeonmall.jp/event/19df5ee1-c93e-4f84-a60b-d5228e713d35",
-      "provider": "AEON Mall Kashihara Events",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
-      "id": "281ff41006cd596f",
-      "title": "性教育をアップデート～デジタル世代の子どもの性教育～",
-      "start": "2026-11-25",
-      "end": "2026-11-25",
+      "id": "e5899f18cb34595c",
+      "title": "広報かしはら2026年11月号 誕生会 しらかしこども広場会場",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
       "city": "Kashihara",
       "location": "",
-      "description": "「性教育をアップデート～デジタル世代の子どもの性教育～」〈託児あり〉 からだ・こころ・同意・境界線・ネットとの付き合い方に加え、トラブル時に子どもを責めず安心につなげる大人の関わり方を学びます。 ★...",
-      "url": "https://event.nsa.pref.nara.jp/events/01M5E1CST7HG9FTQW4EYD5ZVH7",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXM3CXV4JSWAB2EHE0CJ",
       "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
