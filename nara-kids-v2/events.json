@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:50:56.585898+00:00",
+  "updatedAt": "2026-11-28T02:40:24.309300+00:00",
   "sources": [
     "Kashihara City",
     "Tenri City",
@@ -25,10 +25,7 @@
       "reviewStatus": "unverified",
       "discoveredFrom": "public_event_listing",
       "priceType": "unknown",
-      "priceNote": "",
-      "additionalSources": [
-        "https://event.nsa.pref.nara.jp/events/01M207AYBEBTT9159EHS5T8GS3"
-      ]
+      "priceNote": ""
     },
     {
       "id": "7899d15bff91f74d",
@@ -65,6 +62,23 @@
       "priceNote": ""
     },
     {
+      "id": "665d604b2a5db903",
+      "title": "広報かしはら2026年10月号 第22回市町村対抗子ども駅伝大会選考会",
+      "start": "2026-11-14",
+      "end": "2026-12-06",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45GNCRAHMTXB33BBFSNR248",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
       "id": "9382227c6fbc9b20",
       "title": "FAIRY TAIL 連載20周年記念版画展示販売会（同時開催：neco版画展）",
       "start": "2026-11-27",
@@ -82,23 +96,6 @@
       "priceNote": "Free admission/participation stated by organizer"
     },
     {
-      "id": "71b4597e7b8da32d",
-      "title": "広報かしはら2026年11月号 誕生会 こども広場会場",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "city": "Kashihara",
-      "location": "",
-      "description": "",
-      "url": "https://event.nsa.pref.nara.jp/events/01M6CMGXM2E57VTA8YZDJM70G4",
-      "provider": "Nara Prefecture Event Aggregator: Kashihara",
-      "free": false,
-      "costKnown": false,
-      "reviewStatus": "unverified",
-      "discoveredFrom": "public_event_listing",
-      "priceType": "unknown",
-      "priceNote": ""
-    },
-    {
       "id": "ddb33de86685693e",
       "title": "年に一度の BIG なチャンス☆ ブラックフライデーマルシェ",
       "start": "2026-11-28",
@@ -108,6 +105,23 @@
       "description": "お子さまから大人まで楽しめる「ワクワクお買い物マルシェ」を開催します。 抽選にチャレンジして、マルシェ専用通貨「いいな」をGET！ 獲得した「いいな」の金額に応じて、 お菓子や日用品など、お好きな商品をお選びいただけます。 「何にしよう？」「これがほしい！」 商品を選ぶ時間も楽しい、 まるで本物のお買い物のよ",
       "url": "https://kashihara.aeonmall.jp/event/cf47b1b5-fc46-478d-b0a5-edad405fb200",
       "provider": "AEON Mall Kashihara Events",
+      "free": false,
+      "costKnown": false,
+      "reviewStatus": "unverified",
+      "discoveredFrom": "public_event_listing",
+      "priceType": "unknown",
+      "priceNote": ""
+    },
+    {
+      "id": "1f3abdc7e4bb9f5f",
+      "title": "市制70周年＆「飛鳥・藤原の宮都」世界遺産登録記念 ミュージックマルシェ2026",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "city": "Kashihara",
+      "location": "",
+      "description": "開催場所・会場昆虫館 開催日・期間令和8年11月28日、11月29日 イベントの種類分野イベント / 観光・祭り , 文化・芸術 , スポーツ・健康 , 学習・体験 , 子ども・子育て , 環境・エコ...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3ZEBSS1N4G9WYVYXTSR18FC",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
       "free": false,
       "costKnown": false,
       "reviewStatus": "unverified",

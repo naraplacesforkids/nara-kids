@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:50:56.780739+00:00",
+  "generatedAt": "2026-11-28T02:40:24.538927+00:00",
   "weekendStart": "2026-11-28",
   "weekendEnd": "2026-11-29",
   "mondayAfter": "2026-11-30",
@@ -19,6 +19,23 @@
       "costKnown": true,
       "priceType": "free",
       "priceNote": "Free admission/participation stated by organizer",
+      "reviewStatus": "unverified",
+      "section": "special"
+    },
+    {
+      "id": "1f3abdc7e4bb9f5f",
+      "title": "市制70周年＆「飛鳥・藤原の宮都」世界遺産登録記念 ミュージックマルシェ2026",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "city": "Kashihara",
+      "location": "",
+      "description": "開催場所・会場昆虫館 開催日・期間令和8年11月28日、11月29日 イベントの種類分野イベント / 観光・祭り , 文化・芸術 , スポーツ・健康 , 学習・体験 , 子ども・子育て , 環境・エコ...",
+      "url": "https://event.nsa.pref.nara.jp/events/01M3ZEBSS1N4G9WYVYXTSR18FC",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
       "reviewStatus": "unverified",
       "section": "special"
     },
@@ -89,9 +106,26 @@
       "priceNote": "",
       "reviewStatus": "unverified",
       "section": "ongoing"
+    },
+    {
+      "id": "665d604b2a5db903",
+      "title": "広報かしはら2026年10月号 第22回市町村対抗子ども駅伝大会選考会",
+      "start": "2026-11-14",
+      "end": "2026-12-06",
+      "city": "Kashihara",
+      "location": "",
+      "description": "",
+      "url": "https://event.nsa.pref.nara.jp/events/01M45GNCRAHMTXB33BBFSNR248",
+      "provider": "Nara Prefecture Event Aggregator: Kashihara",
+      "free": false,
+      "costKnown": false,
+      "priceType": "unknown",
+      "priceNote": "",
+      "reviewStatus": "unverified",
+      "section": "ongoing"
     }
   ],
-  "sourceUpdatedAt": "2026-11-27T02:50:56.585898+00:00",
+  "sourceUpdatedAt": "2026-11-28T02:40:24.309300+00:00",
   "sourceErrors": [],
   "note": "Friday/Monday included only when recognized as Japanese public holidays; event schedules and special opening days require confirmation."
 }
